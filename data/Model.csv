@@ -1,0 +1,1601 @@
+id_MODEL,group_MODEL,algorithm_MODEL,count_MODEL,Accuracy_MODEL
+1,Correct,Logistic Regression,1,F1 Score: 68%
+2,Correct,Logistic Regression,1,F1 Score: 68%
+3,Correct,Logistic Regression,1,F1 Score: 68%
+4,Correct,Logistic Regression,1,F1 Score: 68%
+5,Correct,Logistic Regression,1,F1 Score: 68%
+6,Correct,Logistic Regression,1,F1 Score: 68%
+7,Correct,Logistic Regression,1,F1 Score: 68%
+8,Correct,Logistic Regression,1,F1 Score: 68%
+9,Correct,Logistic Regression,1,F1 Score: 68%
+10,Correct,Logistic Regression,1,F1 Score: 68%
+11,Correct,Logistic Regression,1,F1 Score: 68%
+12,Correct,Logistic Regression,1,F1 Score: 68%
+13,Correct,Logistic Regression,1,F1 Score: 68%
+14,Correct,Logistic Regression,1,F1 Score: 68%
+15,Correct,Logistic Regression,1,F1 Score: 68%
+16,Correct,Logistic Regression,1,F1 Score: 68%
+17,Correct,Logistic Regression,1,F1 Score: 68%
+18,Correct,Logistic Regression,1,F1 Score: 68%
+19,Correct,Logistic Regression,1,F1 Score: 68%
+20,Correct,Logistic Regression,1,F1 Score: 68%
+21,Correct,Logistic Regression,1,F1 Score: 68%
+22,Correct,Logistic Regression,1,F1 Score: 68%
+23,Correct,Logistic Regression,1,F1 Score: 68%
+24,Correct,Logistic Regression,1,F1 Score: 68%
+25,Correct,Logistic Regression,1,F1 Score: 68%
+26,Correct,Logistic Regression,1,F1 Score: 68%
+27,Correct,Logistic Regression,1,F1 Score: 68%
+28,Correct,Logistic Regression,1,F1 Score: 68%
+29,Correct,Logistic Regression,1,F1 Score: 68%
+30,Correct,Logistic Regression,1,F1 Score: 68%
+31,Correct,Logistic Regression,1,F1 Score: 68%
+32,Correct,Logistic Regression,1,F1 Score: 68%
+33,Correct,Logistic Regression,1,F1 Score: 68%
+34,Correct,Logistic Regression,1,F1 Score: 68%
+35,Correct,Logistic Regression,1,F1 Score: 68%
+36,Correct,Logistic Regression,1,F1 Score: 68%
+37,Correct,Logistic Regression,1,F1 Score: 68%
+38,Correct,Logistic Regression,1,F1 Score: 68%
+39,Correct,Logistic Regression,1,F1 Score: 68%
+40,Correct,Logistic Regression,1,F1 Score: 68%
+41,Correct,Logistic Regression,1,F1 Score: 68%
+42,Correct,Logistic Regression,1,F1 Score: 68%
+43,Correct,Logistic Regression,1,F1 Score: 68%
+44,Correct,Logistic Regression,1,F1 Score: 68%
+45,Correct,Logistic Regression,1,F1 Score: 68%
+46,Correct,Logistic Regression,1,F1 Score: 68%
+47,Correct,Logistic Regression,1,F1 Score: 68%
+48,Correct,Logistic Regression,1,F1 Score: 68%
+49,Correct,Logistic Regression,1,F1 Score: 68%
+50,Correct,Logistic Regression,1,F1 Score: 68%
+51,Correct,Logistic Regression,1,F1 Score: 68%
+52,Correct,Logistic Regression,1,F1 Score: 68%
+53,Correct,Logistic Regression,1,F1 Score: 68%
+54,Correct,Logistic Regression,1,F1 Score: 68%
+55,Correct,Logistic Regression,1,F1 Score: 68%
+56,Correct,Logistic Regression,1,F1 Score: 68%
+57,Correct,Logistic Regression,1,F1 Score: 68%
+58,Correct,Logistic Regression,1,F1 Score: 68%
+59,Correct,Logistic Regression,1,F1 Score: 68%
+60,Correct,Logistic Regression,1,F1 Score: 68%
+61,Correct,Logistic Regression,1,F1 Score: 68%
+62,Correct,Logistic Regression,1,F1 Score: 68%
+63,Correct,Logistic Regression,1,F1 Score: 68%
+64,Correct,Logistic Regression,1,F1 Score: 68%
+65,Correct,Logistic Regression,1,F1 Score: 68%
+66,Correct,Logistic Regression,1,F1 Score: 68%
+67,Correct,Logistic Regression,1,F1 Score: 68%
+68,Correct,Logistic Regression,1,F1 Score: 68%
+69,Wrong,Logistic Regression,1,F1 Score: 68%
+70,Wrong,Logistic Regression,1,F1 Score: 68%
+71,Wrong,Logistic Regression,1,F1 Score: 68%
+72,Wrong,Logistic Regression,1,F1 Score: 68%
+73,Wrong,Logistic Regression,1,F1 Score: 68%
+74,Wrong,Logistic Regression,1,F1 Score: 68%
+75,Wrong,Logistic Regression,1,F1 Score: 68%
+76,Wrong,Logistic Regression,1,F1 Score: 68%
+77,Wrong,Logistic Regression,1,F1 Score: 68%
+78,Wrong,Logistic Regression,1,F1 Score: 68%
+79,Wrong,Logistic Regression,1,F1 Score: 68%
+80,Wrong,Logistic Regression,1,F1 Score: 68%
+81,Wrong,Logistic Regression,1,F1 Score: 68%
+82,Wrong,Logistic Regression,1,F1 Score: 68%
+83,Wrong,Logistic Regression,1,F1 Score: 68%
+84,Wrong,Logistic Regression,1,F1 Score: 68%
+85,Wrong,Logistic Regression,1,F1 Score: 68%
+86,Wrong,Logistic Regression,1,F1 Score: 68%
+87,Wrong,Logistic Regression,1,F1 Score: 68%
+88,Wrong,Logistic Regression,1,F1 Score: 68%
+89,Wrong,Logistic Regression,1,F1 Score: 68%
+90,Wrong,Logistic Regression,1,F1 Score: 68%
+91,Wrong,Logistic Regression,1,F1 Score: 68%
+92,Wrong,Logistic Regression,1,F1 Score: 68%
+93,Wrong,Logistic Regression,1,F1 Score: 68%
+94,Wrong,Logistic Regression,1,F1 Score: 68%
+95,Wrong,Logistic Regression,1,F1 Score: 68%
+96,Wrong,Logistic Regression,1,F1 Score: 68%
+97,Wrong,Logistic Regression,1,F1 Score: 68%
+98,Wrong,Logistic Regression,1,F1 Score: 68%
+99,Wrong,Logistic Regression,1,F1 Score: 68%
+100,Wrong,Logistic Regression,1,F1 Score: 68%
+101,Correct,Naive Bayes,1,F1 Score: 69%
+102,Correct,Naive Bayes,1,F1 Score: 69%
+103,Correct,Naive Bayes,1,F1 Score: 69%
+104,Correct,Naive Bayes,1,F1 Score: 69%
+105,Correct,Naive Bayes,1,F1 Score: 69%
+106,Correct,Naive Bayes,1,F1 Score: 69%
+107,Correct,Naive Bayes,1,F1 Score: 69%
+108,Correct,Naive Bayes,1,F1 Score: 69%
+109,Correct,Naive Bayes,1,F1 Score: 69%
+110,Correct,Naive Bayes,1,F1 Score: 69%
+111,Correct,Naive Bayes,1,F1 Score: 69%
+112,Correct,Naive Bayes,1,F1 Score: 69%
+113,Correct,Naive Bayes,1,F1 Score: 69%
+114,Correct,Naive Bayes,1,F1 Score: 69%
+115,Correct,Naive Bayes,1,F1 Score: 69%
+116,Correct,Naive Bayes,1,F1 Score: 69%
+117,Correct,Naive Bayes,1,F1 Score: 69%
+118,Correct,Naive Bayes,1,F1 Score: 69%
+119,Correct,Naive Bayes,1,F1 Score: 69%
+120,Correct,Naive Bayes,1,F1 Score: 69%
+121,Correct,Naive Bayes,1,F1 Score: 69%
+122,Correct,Naive Bayes,1,F1 Score: 69%
+123,Correct,Naive Bayes,1,F1 Score: 69%
+124,Correct,Naive Bayes,1,F1 Score: 69%
+125,Correct,Naive Bayes,1,F1 Score: 69%
+126,Correct,Naive Bayes,1,F1 Score: 69%
+127,Correct,Naive Bayes,1,F1 Score: 69%
+128,Correct,Naive Bayes,1,F1 Score: 69%
+129,Correct,Naive Bayes,1,F1 Score: 69%
+130,Correct,Naive Bayes,1,F1 Score: 69%
+131,Correct,Naive Bayes,1,F1 Score: 69%
+132,Correct,Naive Bayes,1,F1 Score: 69%
+133,Correct,Naive Bayes,1,F1 Score: 69%
+134,Correct,Naive Bayes,1,F1 Score: 69%
+135,Correct,Naive Bayes,1,F1 Score: 69%
+136,Correct,Naive Bayes,1,F1 Score: 69%
+137,Correct,Naive Bayes,1,F1 Score: 69%
+138,Correct,Naive Bayes,1,F1 Score: 69%
+139,Correct,Naive Bayes,1,F1 Score: 69%
+140,Correct,Naive Bayes,1,F1 Score: 69%
+141,Correct,Naive Bayes,1,F1 Score: 69%
+142,Correct,Naive Bayes,1,F1 Score: 69%
+143,Correct,Naive Bayes,1,F1 Score: 69%
+144,Correct,Naive Bayes,1,F1 Score: 69%
+145,Correct,Naive Bayes,1,F1 Score: 69%
+146,Correct,Naive Bayes,1,F1 Score: 69%
+147,Correct,Naive Bayes,1,F1 Score: 69%
+148,Correct,Naive Bayes,1,F1 Score: 69%
+149,Correct,Naive Bayes,1,F1 Score: 69%
+150,Correct,Naive Bayes,1,F1 Score: 69%
+151,Correct,Naive Bayes,1,F1 Score: 69%
+152,Correct,Naive Bayes,1,F1 Score: 69%
+153,Correct,Naive Bayes,1,F1 Score: 69%
+154,Correct,Naive Bayes,1,F1 Score: 69%
+155,Correct,Naive Bayes,1,F1 Score: 69%
+156,Correct,Naive Bayes,1,F1 Score: 69%
+157,Correct,Naive Bayes,1,F1 Score: 69%
+158,Correct,Naive Bayes,1,F1 Score: 69%
+159,Correct,Naive Bayes,1,F1 Score: 69%
+160,Correct,Naive Bayes,1,F1 Score: 69%
+161,Correct,Naive Bayes,1,F1 Score: 69%
+162,Correct,Naive Bayes,1,F1 Score: 69%
+163,Correct,Naive Bayes,1,F1 Score: 69%
+164,Correct,Naive Bayes,1,F1 Score: 69%
+165,Correct,Naive Bayes,1,F1 Score: 69%
+166,Correct,Naive Bayes,1,F1 Score: 69%
+167,Correct,Naive Bayes,1,F1 Score: 69%
+168,Correct,Naive Bayes,1,F1 Score: 69%
+169,Correct,Naive Bayes,1,F1 Score: 69%
+170,Wrong,Naive Bayes,1,F1 Score: 69%
+171,Wrong,Naive Bayes,1,F1 Score: 69%
+172,Wrong,Naive Bayes,1,F1 Score: 69%
+173,Wrong,Naive Bayes,1,F1 Score: 69%
+174,Wrong,Naive Bayes,1,F1 Score: 69%
+175,Wrong,Naive Bayes,1,F1 Score: 69%
+176,Wrong,Naive Bayes,1,F1 Score: 69%
+177,Wrong,Naive Bayes,1,F1 Score: 69%
+178,Wrong,Naive Bayes,1,F1 Score: 69%
+179,Wrong,Naive Bayes,1,F1 Score: 69%
+180,Wrong,Naive Bayes,1,F1 Score: 69%
+181,Wrong,Naive Bayes,1,F1 Score: 69%
+182,Wrong,Naive Bayes,1,F1 Score: 69%
+183,Wrong,Naive Bayes,1,F1 Score: 69%
+184,Wrong,Naive Bayes,1,F1 Score: 69%
+185,Wrong,Naive Bayes,1,F1 Score: 69%
+186,Wrong,Naive Bayes,1,F1 Score: 69%
+187,Wrong,Naive Bayes,1,F1 Score: 69%
+188,Wrong,Naive Bayes,1,F1 Score: 69%
+189,Wrong,Naive Bayes,1,F1 Score: 69%
+190,Wrong,Naive Bayes,1,F1 Score: 69%
+191,Wrong,Naive Bayes,1,F1 Score: 69%
+192,Wrong,Naive Bayes,1,F1 Score: 69%
+193,Wrong,Naive Bayes,1,F1 Score: 69%
+194,Wrong,Naive Bayes,1,F1 Score: 69%
+195,Wrong,Naive Bayes,1,F1 Score: 69%
+196,Wrong,Naive Bayes,1,F1 Score: 69%
+197,Wrong,Naive Bayes,1,F1 Score: 69%
+198,Wrong,Naive Bayes,1,F1 Score: 69%
+199,Wrong,Naive Bayes,1,F1 Score: 69%
+200,Wrong,Naive Bayes,1,F1 Score: 69%
+201,Correct,Random Forest,1,F1 Score: 68%
+202,Correct,Random Forest,1,F1 Score: 68%
+203,Correct,Random Forest,1,F1 Score: 68%
+204,Correct,Random Forest,1,F1 Score: 68%
+205,Correct,Random Forest,1,F1 Score: 68%
+206,Correct,Random Forest,1,F1 Score: 68%
+207,Correct,Random Forest,1,F1 Score: 68%
+208,Correct,Random Forest,1,F1 Score: 68%
+209,Correct,Random Forest,1,F1 Score: 68%
+210,Correct,Random Forest,1,F1 Score: 68%
+211,Correct,Random Forest,1,F1 Score: 68%
+212,Correct,Random Forest,1,F1 Score: 68%
+213,Correct,Random Forest,1,F1 Score: 68%
+214,Correct,Random Forest,1,F1 Score: 68%
+215,Correct,Random Forest,1,F1 Score: 68%
+216,Correct,Random Forest,1,F1 Score: 68%
+217,Correct,Random Forest,1,F1 Score: 68%
+218,Correct,Random Forest,1,F1 Score: 68%
+219,Correct,Random Forest,1,F1 Score: 68%
+220,Correct,Random Forest,1,F1 Score: 68%
+221,Correct,Random Forest,1,F1 Score: 68%
+222,Correct,Random Forest,1,F1 Score: 68%
+223,Correct,Random Forest,1,F1 Score: 68%
+224,Correct,Random Forest,1,F1 Score: 68%
+225,Correct,Random Forest,1,F1 Score: 68%
+226,Correct,Random Forest,1,F1 Score: 68%
+227,Correct,Random Forest,1,F1 Score: 68%
+228,Correct,Random Forest,1,F1 Score: 68%
+229,Correct,Random Forest,1,F1 Score: 68%
+230,Correct,Random Forest,1,F1 Score: 68%
+231,Correct,Random Forest,1,F1 Score: 68%
+232,Correct,Random Forest,1,F1 Score: 68%
+233,Correct,Random Forest,1,F1 Score: 68%
+234,Correct,Random Forest,1,F1 Score: 68%
+235,Correct,Random Forest,1,F1 Score: 68%
+236,Correct,Random Forest,1,F1 Score: 68%
+237,Correct,Random Forest,1,F1 Score: 68%
+238,Correct,Random Forest,1,F1 Score: 68%
+239,Correct,Random Forest,1,F1 Score: 68%
+240,Correct,Random Forest,1,F1 Score: 68%
+241,Correct,Random Forest,1,F1 Score: 68%
+242,Correct,Random Forest,1,F1 Score: 68%
+243,Correct,Random Forest,1,F1 Score: 68%
+244,Correct,Random Forest,1,F1 Score: 68%
+245,Correct,Random Forest,1,F1 Score: 68%
+246,Correct,Random Forest,1,F1 Score: 68%
+247,Correct,Random Forest,1,F1 Score: 68%
+248,Correct,Random Forest,1,F1 Score: 68%
+249,Correct,Random Forest,1,F1 Score: 68%
+250,Correct,Random Forest,1,F1 Score: 68%
+251,Correct,Random Forest,1,F1 Score: 68%
+252,Correct,Random Forest,1,F1 Score: 68%
+253,Correct,Random Forest,1,F1 Score: 68%
+254,Correct,Random Forest,1,F1 Score: 68%
+255,Correct,Random Forest,1,F1 Score: 68%
+256,Correct,Random Forest,1,F1 Score: 68%
+257,Correct,Random Forest,1,F1 Score: 68%
+258,Correct,Random Forest,1,F1 Score: 68%
+259,Correct,Random Forest,1,F1 Score: 68%
+260,Correct,Random Forest,1,F1 Score: 68%
+261,Correct,Random Forest,1,F1 Score: 68%
+262,Correct,Random Forest,1,F1 Score: 68%
+263,Correct,Random Forest,1,F1 Score: 68%
+264,Correct,Random Forest,1,F1 Score: 68%
+265,Correct,Random Forest,1,F1 Score: 68%
+266,Correct,Random Forest,1,F1 Score: 68%
+267,Correct,Random Forest,1,F1 Score: 68%
+268,Correct,Random Forest,1,F1 Score: 68%
+269,Wrong,Random Forest,1,F1 Score: 68%
+270,Wrong,Random Forest,1,F1 Score: 68%
+271,Wrong,Random Forest,1,F1 Score: 68%
+272,Wrong,Random Forest,1,F1 Score: 68%
+273,Wrong,Random Forest,1,F1 Score: 68%
+274,Wrong,Random Forest,1,F1 Score: 68%
+275,Wrong,Random Forest,1,F1 Score: 68%
+276,Wrong,Random Forest,1,F1 Score: 68%
+277,Wrong,Random Forest,1,F1 Score: 68%
+278,Wrong,Random Forest,1,F1 Score: 68%
+279,Wrong,Random Forest,1,F1 Score: 68%
+280,Wrong,Random Forest,1,F1 Score: 68%
+281,Wrong,Random Forest,1,F1 Score: 68%
+282,Wrong,Random Forest,1,F1 Score: 68%
+283,Wrong,Random Forest,1,F1 Score: 68%
+284,Wrong,Random Forest,1,F1 Score: 68%
+285,Wrong,Random Forest,1,F1 Score: 68%
+286,Wrong,Random Forest,1,F1 Score: 68%
+287,Wrong,Random Forest,1,F1 Score: 68%
+288,Wrong,Random Forest,1,F1 Score: 68%
+289,Wrong,Random Forest,1,F1 Score: 68%
+290,Wrong,Random Forest,1,F1 Score: 68%
+291,Wrong,Random Forest,1,F1 Score: 68%
+292,Wrong,Random Forest,1,F1 Score: 68%
+293,Wrong,Random Forest,1,F1 Score: 68%
+294,Wrong,Random Forest,1,F1 Score: 68%
+295,Wrong,Random Forest,1,F1 Score: 68%
+296,Wrong,Random Forest,1,F1 Score: 68%
+297,Wrong,Random Forest,1,F1 Score: 68%
+298,Wrong,Random Forest,1,F1 Score: 68%
+299,Wrong,Random Forest,1,F1 Score: 68%
+300,Wrong,Random Forest,1,F1 Score: 68%
+301,Correct,XGBoost,1,F1 Score: 90%
+302,Correct,XGBoost,1,F1 Score: 90%
+303,Correct,XGBoost,1,F1 Score: 90%
+304,Correct,XGBoost,1,F1 Score: 90%
+305,Correct,XGBoost,1,F1 Score: 90%
+306,Correct,XGBoost,1,F1 Score: 90%
+307,Correct,XGBoost,1,F1 Score: 90%
+308,Correct,XGBoost,1,F1 Score: 90%
+309,Correct,XGBoost,1,F1 Score: 90%
+310,Correct,XGBoost,1,F1 Score: 90%
+311,Correct,XGBoost,1,F1 Score: 90%
+312,Correct,XGBoost,1,F1 Score: 90%
+313,Correct,XGBoost,1,F1 Score: 90%
+314,Correct,XGBoost,1,F1 Score: 90%
+315,Correct,XGBoost,1,F1 Score: 90%
+316,Correct,XGBoost,1,F1 Score: 90%
+317,Correct,XGBoost,1,F1 Score: 90%
+318,Correct,XGBoost,1,F1 Score: 90%
+319,Correct,XGBoost,1,F1 Score: 90%
+320,Correct,XGBoost,1,F1 Score: 90%
+321,Correct,XGBoost,1,F1 Score: 90%
+322,Correct,XGBoost,1,F1 Score: 90%
+323,Correct,XGBoost,1,F1 Score: 90%
+324,Correct,XGBoost,1,F1 Score: 90%
+325,Correct,XGBoost,1,F1 Score: 90%
+326,Correct,XGBoost,1,F1 Score: 90%
+327,Correct,XGBoost,1,F1 Score: 90%
+328,Correct,XGBoost,1,F1 Score: 90%
+329,Correct,XGBoost,1,F1 Score: 90%
+330,Correct,XGBoost,1,F1 Score: 90%
+331,Correct,XGBoost,1,F1 Score: 90%
+332,Correct,XGBoost,1,F1 Score: 90%
+333,Correct,XGBoost,1,F1 Score: 90%
+334,Correct,XGBoost,1,F1 Score: 90%
+335,Correct,XGBoost,1,F1 Score: 90%
+336,Correct,XGBoost,1,F1 Score: 90%
+337,Correct,XGBoost,1,F1 Score: 90%
+338,Correct,XGBoost,1,F1 Score: 90%
+339,Correct,XGBoost,1,F1 Score: 90%
+340,Correct,XGBoost,1,F1 Score: 90%
+341,Correct,XGBoost,1,F1 Score: 90%
+342,Correct,XGBoost,1,F1 Score: 90%
+343,Correct,XGBoost,1,F1 Score: 90%
+344,Correct,XGBoost,1,F1 Score: 90%
+345,Correct,XGBoost,1,F1 Score: 90%
+346,Correct,XGBoost,1,F1 Score: 90%
+347,Correct,XGBoost,1,F1 Score: 90%
+348,Correct,XGBoost,1,F1 Score: 90%
+349,Correct,XGBoost,1,F1 Score: 90%
+350,Correct,XGBoost,1,F1 Score: 90%
+351,Correct,XGBoost,1,F1 Score: 90%
+352,Correct,XGBoost,1,F1 Score: 90%
+353,Correct,XGBoost,1,F1 Score: 90%
+354,Correct,XGBoost,1,F1 Score: 90%
+355,Correct,XGBoost,1,F1 Score: 90%
+356,Correct,XGBoost,1,F1 Score: 90%
+357,Correct,XGBoost,1,F1 Score: 90%
+358,Correct,XGBoost,1,F1 Score: 90%
+359,Correct,XGBoost,1,F1 Score: 90%
+360,Correct,XGBoost,1,F1 Score: 90%
+361,Correct,XGBoost,1,F1 Score: 90%
+362,Correct,XGBoost,1,F1 Score: 90%
+363,Correct,XGBoost,1,F1 Score: 90%
+364,Correct,XGBoost,1,F1 Score: 90%
+365,Correct,XGBoost,1,F1 Score: 90%
+366,Correct,XGBoost,1,F1 Score: 90%
+367,Correct,XGBoost,1,F1 Score: 90%
+368,Correct,XGBoost,1,F1 Score: 90%
+369,Correct,XGBoost,1,F1 Score: 90%
+370,Correct,XGBoost,1,F1 Score: 90%
+371,Correct,XGBoost,1,F1 Score: 90%
+372,Correct,XGBoost,1,F1 Score: 90%
+373,Correct,XGBoost,1,F1 Score: 90%
+374,Correct,XGBoost,1,F1 Score: 90%
+375,Correct,XGBoost,1,F1 Score: 90%
+376,Correct,XGBoost,1,F1 Score: 90%
+377,Correct,XGBoost,1,F1 Score: 90%
+378,Correct,XGBoost,1,F1 Score: 90%
+379,Correct,XGBoost,1,F1 Score: 90%
+380,Correct,XGBoost,1,F1 Score: 90%
+381,Correct,XGBoost,1,F1 Score: 90%
+382,Correct,XGBoost,1,F1 Score: 90%
+383,Correct,XGBoost,1,F1 Score: 90%
+384,Correct,XGBoost,1,F1 Score: 90%
+385,Correct,XGBoost,1,F1 Score: 90%
+386,Correct,XGBoost,1,F1 Score: 90%
+387,Correct,XGBoost,1,F1 Score: 90%
+388,Correct,XGBoost,1,F1 Score: 90%
+389,Correct,XGBoost,1,F1 Score: 90%
+390,Correct,XGBoost,1,F1 Score: 90%
+391,Wrong,XGBoost,1,F1 Score: 90%
+392,Wrong,XGBoost,1,F1 Score: 90%
+393,Wrong,XGBoost,1,F1 Score: 90%
+394,Wrong,XGBoost,1,F1 Score: 90%
+395,Wrong,XGBoost,1,F1 Score: 90%
+396,Wrong,XGBoost,1,F1 Score: 90%
+397,Wrong,XGBoost,1,F1 Score: 90%
+398,Wrong,XGBoost,1,F1 Score: 90%
+399,Wrong,XGBoost,1,F1 Score: 90%
+400,Wrong,XGBoost,1,F1 Score: 90%
+401,Correct,Logistic Regression,1,F1 Score: 68%
+402,Correct,Logistic Regression,1,F1 Score: 68%
+403,Correct,Logistic Regression,1,F1 Score: 68%
+404,Correct,Logistic Regression,1,F1 Score: 68%
+405,Correct,Logistic Regression,1,F1 Score: 68%
+406,Correct,Logistic Regression,1,F1 Score: 68%
+407,Correct,Logistic Regression,1,F1 Score: 68%
+408,Correct,Logistic Regression,1,F1 Score: 68%
+409,Correct,Logistic Regression,1,F1 Score: 68%
+410,Correct,Logistic Regression,1,F1 Score: 68%
+411,Correct,Logistic Regression,1,F1 Score: 68%
+412,Correct,Logistic Regression,1,F1 Score: 68%
+413,Correct,Logistic Regression,1,F1 Score: 68%
+414,Correct,Logistic Regression,1,F1 Score: 68%
+415,Correct,Logistic Regression,1,F1 Score: 68%
+416,Correct,Logistic Regression,1,F1 Score: 68%
+417,Correct,Logistic Regression,1,F1 Score: 68%
+418,Correct,Logistic Regression,1,F1 Score: 68%
+419,Correct,Logistic Regression,1,F1 Score: 68%
+420,Correct,Logistic Regression,1,F1 Score: 68%
+421,Correct,Logistic Regression,1,F1 Score: 68%
+422,Correct,Logistic Regression,1,F1 Score: 68%
+423,Correct,Logistic Regression,1,F1 Score: 68%
+424,Correct,Logistic Regression,1,F1 Score: 68%
+425,Correct,Logistic Regression,1,F1 Score: 68%
+426,Correct,Logistic Regression,1,F1 Score: 68%
+427,Correct,Logistic Regression,1,F1 Score: 68%
+428,Correct,Logistic Regression,1,F1 Score: 68%
+429,Correct,Logistic Regression,1,F1 Score: 68%
+430,Correct,Logistic Regression,1,F1 Score: 68%
+431,Correct,Logistic Regression,1,F1 Score: 68%
+432,Correct,Logistic Regression,1,F1 Score: 68%
+433,Correct,Logistic Regression,1,F1 Score: 68%
+434,Correct,Logistic Regression,1,F1 Score: 68%
+435,Correct,Logistic Regression,1,F1 Score: 68%
+436,Correct,Logistic Regression,1,F1 Score: 68%
+437,Correct,Logistic Regression,1,F1 Score: 68%
+438,Correct,Logistic Regression,1,F1 Score: 68%
+439,Correct,Logistic Regression,1,F1 Score: 68%
+440,Correct,Logistic Regression,1,F1 Score: 68%
+441,Correct,Logistic Regression,1,F1 Score: 68%
+442,Correct,Logistic Regression,1,F1 Score: 68%
+443,Correct,Logistic Regression,1,F1 Score: 68%
+444,Correct,Logistic Regression,1,F1 Score: 68%
+445,Correct,Logistic Regression,1,F1 Score: 68%
+446,Correct,Logistic Regression,1,F1 Score: 68%
+447,Correct,Logistic Regression,1,F1 Score: 68%
+448,Correct,Logistic Regression,1,F1 Score: 68%
+449,Correct,Logistic Regression,1,F1 Score: 68%
+450,Correct,Logistic Regression,1,F1 Score: 68%
+451,Correct,Logistic Regression,1,F1 Score: 68%
+452,Correct,Logistic Regression,1,F1 Score: 68%
+453,Correct,Logistic Regression,1,F1 Score: 68%
+454,Correct,Logistic Regression,1,F1 Score: 68%
+455,Correct,Logistic Regression,1,F1 Score: 68%
+456,Correct,Logistic Regression,1,F1 Score: 68%
+457,Correct,Logistic Regression,1,F1 Score: 68%
+458,Correct,Logistic Regression,1,F1 Score: 68%
+459,Correct,Logistic Regression,1,F1 Score: 68%
+460,Correct,Logistic Regression,1,F1 Score: 68%
+461,Correct,Logistic Regression,1,F1 Score: 68%
+462,Correct,Logistic Regression,1,F1 Score: 68%
+463,Correct,Logistic Regression,1,F1 Score: 68%
+464,Correct,Logistic Regression,1,F1 Score: 68%
+465,Correct,Logistic Regression,1,F1 Score: 68%
+466,Correct,Logistic Regression,1,F1 Score: 68%
+467,Correct,Logistic Regression,1,F1 Score: 68%
+468,Correct,Logistic Regression,1,F1 Score: 68%
+469,Wrong,Logistic Regression,1,F1 Score: 68%
+470,Wrong,Logistic Regression,1,F1 Score: 68%
+471,Wrong,Logistic Regression,1,F1 Score: 68%
+472,Wrong,Logistic Regression,1,F1 Score: 68%
+473,Wrong,Logistic Regression,1,F1 Score: 68%
+474,Wrong,Logistic Regression,1,F1 Score: 68%
+475,Wrong,Logistic Regression,1,F1 Score: 68%
+476,Wrong,Logistic Regression,1,F1 Score: 68%
+477,Wrong,Logistic Regression,1,F1 Score: 68%
+478,Wrong,Logistic Regression,1,F1 Score: 68%
+479,Wrong,Logistic Regression,1,F1 Score: 68%
+480,Wrong,Logistic Regression,1,F1 Score: 68%
+481,Wrong,Logistic Regression,1,F1 Score: 68%
+482,Wrong,Logistic Regression,1,F1 Score: 68%
+483,Wrong,Logistic Regression,1,F1 Score: 68%
+484,Wrong,Logistic Regression,1,F1 Score: 68%
+485,Wrong,Logistic Regression,1,F1 Score: 68%
+486,Wrong,Logistic Regression,1,F1 Score: 68%
+487,Wrong,Logistic Regression,1,F1 Score: 68%
+488,Wrong,Logistic Regression,1,F1 Score: 68%
+489,Wrong,Logistic Regression,1,F1 Score: 68%
+490,Wrong,Logistic Regression,1,F1 Score: 68%
+491,Wrong,Logistic Regression,1,F1 Score: 68%
+492,Wrong,Logistic Regression,1,F1 Score: 68%
+493,Wrong,Logistic Regression,1,F1 Score: 68%
+494,Wrong,Logistic Regression,1,F1 Score: 68%
+495,Wrong,Logistic Regression,1,F1 Score: 68%
+496,Wrong,Logistic Regression,1,F1 Score: 68%
+497,Wrong,Logistic Regression,1,F1 Score: 68%
+498,Wrong,Logistic Regression,1,F1 Score: 68%
+499,Wrong,Logistic Regression,1,F1 Score: 68%
+500,Wrong,Logistic Regression,1,F1 Score: 68%
+501,Correct,Naive Bayes,1,F1 Score: 69%
+502,Correct,Naive Bayes,1,F1 Score: 69%
+503,Correct,Naive Bayes,1,F1 Score: 69%
+504,Correct,Naive Bayes,1,F1 Score: 69%
+505,Correct,Naive Bayes,1,F1 Score: 69%
+506,Correct,Naive Bayes,1,F1 Score: 69%
+507,Correct,Naive Bayes,1,F1 Score: 69%
+508,Correct,Naive Bayes,1,F1 Score: 69%
+509,Correct,Naive Bayes,1,F1 Score: 69%
+510,Correct,Naive Bayes,1,F1 Score: 69%
+511,Correct,Naive Bayes,1,F1 Score: 69%
+512,Correct,Naive Bayes,1,F1 Score: 69%
+513,Correct,Naive Bayes,1,F1 Score: 69%
+514,Correct,Naive Bayes,1,F1 Score: 69%
+515,Correct,Naive Bayes,1,F1 Score: 69%
+516,Correct,Naive Bayes,1,F1 Score: 69%
+517,Correct,Naive Bayes,1,F1 Score: 69%
+518,Correct,Naive Bayes,1,F1 Score: 69%
+519,Correct,Naive Bayes,1,F1 Score: 69%
+520,Correct,Naive Bayes,1,F1 Score: 69%
+521,Correct,Naive Bayes,1,F1 Score: 69%
+522,Correct,Naive Bayes,1,F1 Score: 69%
+523,Correct,Naive Bayes,1,F1 Score: 69%
+524,Correct,Naive Bayes,1,F1 Score: 69%
+525,Correct,Naive Bayes,1,F1 Score: 69%
+526,Correct,Naive Bayes,1,F1 Score: 69%
+527,Correct,Naive Bayes,1,F1 Score: 69%
+528,Correct,Naive Bayes,1,F1 Score: 69%
+529,Correct,Naive Bayes,1,F1 Score: 69%
+530,Correct,Naive Bayes,1,F1 Score: 69%
+531,Correct,Naive Bayes,1,F1 Score: 69%
+532,Correct,Naive Bayes,1,F1 Score: 69%
+533,Correct,Naive Bayes,1,F1 Score: 69%
+534,Correct,Naive Bayes,1,F1 Score: 69%
+535,Correct,Naive Bayes,1,F1 Score: 69%
+536,Correct,Naive Bayes,1,F1 Score: 69%
+537,Correct,Naive Bayes,1,F1 Score: 69%
+538,Correct,Naive Bayes,1,F1 Score: 69%
+539,Correct,Naive Bayes,1,F1 Score: 69%
+540,Correct,Naive Bayes,1,F1 Score: 69%
+541,Correct,Naive Bayes,1,F1 Score: 69%
+542,Correct,Naive Bayes,1,F1 Score: 69%
+543,Correct,Naive Bayes,1,F1 Score: 69%
+544,Correct,Naive Bayes,1,F1 Score: 69%
+545,Correct,Naive Bayes,1,F1 Score: 69%
+546,Correct,Naive Bayes,1,F1 Score: 69%
+547,Correct,Naive Bayes,1,F1 Score: 69%
+548,Correct,Naive Bayes,1,F1 Score: 69%
+549,Correct,Naive Bayes,1,F1 Score: 69%
+550,Correct,Naive Bayes,1,F1 Score: 69%
+551,Correct,Naive Bayes,1,F1 Score: 69%
+552,Correct,Naive Bayes,1,F1 Score: 69%
+553,Correct,Naive Bayes,1,F1 Score: 69%
+554,Correct,Naive Bayes,1,F1 Score: 69%
+555,Correct,Naive Bayes,1,F1 Score: 69%
+556,Correct,Naive Bayes,1,F1 Score: 69%
+557,Correct,Naive Bayes,1,F1 Score: 69%
+558,Correct,Naive Bayes,1,F1 Score: 69%
+559,Correct,Naive Bayes,1,F1 Score: 69%
+560,Correct,Naive Bayes,1,F1 Score: 69%
+561,Correct,Naive Bayes,1,F1 Score: 69%
+562,Correct,Naive Bayes,1,F1 Score: 69%
+563,Correct,Naive Bayes,1,F1 Score: 69%
+564,Correct,Naive Bayes,1,F1 Score: 69%
+565,Correct,Naive Bayes,1,F1 Score: 69%
+566,Correct,Naive Bayes,1,F1 Score: 69%
+567,Correct,Naive Bayes,1,F1 Score: 69%
+568,Correct,Naive Bayes,1,F1 Score: 69%
+569,Correct,Naive Bayes,1,F1 Score: 69%
+570,Wrong,Naive Bayes,1,F1 Score: 69%
+571,Wrong,Naive Bayes,1,F1 Score: 69%
+572,Wrong,Naive Bayes,1,F1 Score: 69%
+573,Wrong,Naive Bayes,1,F1 Score: 69%
+574,Wrong,Naive Bayes,1,F1 Score: 69%
+575,Wrong,Naive Bayes,1,F1 Score: 69%
+576,Wrong,Naive Bayes,1,F1 Score: 69%
+577,Wrong,Naive Bayes,1,F1 Score: 69%
+578,Wrong,Naive Bayes,1,F1 Score: 69%
+579,Wrong,Naive Bayes,1,F1 Score: 69%
+580,Wrong,Naive Bayes,1,F1 Score: 69%
+581,Wrong,Naive Bayes,1,F1 Score: 69%
+582,Wrong,Naive Bayes,1,F1 Score: 69%
+583,Wrong,Naive Bayes,1,F1 Score: 69%
+584,Wrong,Naive Bayes,1,F1 Score: 69%
+585,Wrong,Naive Bayes,1,F1 Score: 69%
+586,Wrong,Naive Bayes,1,F1 Score: 69%
+587,Wrong,Naive Bayes,1,F1 Score: 69%
+588,Wrong,Naive Bayes,1,F1 Score: 69%
+589,Wrong,Naive Bayes,1,F1 Score: 69%
+590,Wrong,Naive Bayes,1,F1 Score: 69%
+591,Wrong,Naive Bayes,1,F1 Score: 69%
+592,Wrong,Naive Bayes,1,F1 Score: 69%
+593,Wrong,Naive Bayes,1,F1 Score: 69%
+594,Wrong,Naive Bayes,1,F1 Score: 69%
+595,Wrong,Naive Bayes,1,F1 Score: 69%
+596,Wrong,Naive Bayes,1,F1 Score: 69%
+597,Wrong,Naive Bayes,1,F1 Score: 69%
+598,Wrong,Naive Bayes,1,F1 Score: 69%
+599,Wrong,Naive Bayes,1,F1 Score: 69%
+600,Wrong,Naive Bayes,1,F1 Score: 69%
+601,Correct,Random Forest,1,F1 Score: 68%
+602,Correct,Random Forest,1,F1 Score: 68%
+603,Correct,Random Forest,1,F1 Score: 68%
+604,Correct,Random Forest,1,F1 Score: 68%
+605,Correct,Random Forest,1,F1 Score: 68%
+606,Correct,Random Forest,1,F1 Score: 68%
+607,Correct,Random Forest,1,F1 Score: 68%
+608,Correct,Random Forest,1,F1 Score: 68%
+609,Correct,Random Forest,1,F1 Score: 68%
+610,Correct,Random Forest,1,F1 Score: 68%
+611,Correct,Random Forest,1,F1 Score: 68%
+612,Correct,Random Forest,1,F1 Score: 68%
+613,Correct,Random Forest,1,F1 Score: 68%
+614,Correct,Random Forest,1,F1 Score: 68%
+615,Correct,Random Forest,1,F1 Score: 68%
+616,Correct,Random Forest,1,F1 Score: 68%
+617,Correct,Random Forest,1,F1 Score: 68%
+618,Correct,Random Forest,1,F1 Score: 68%
+619,Correct,Random Forest,1,F1 Score: 68%
+620,Correct,Random Forest,1,F1 Score: 68%
+621,Correct,Random Forest,1,F1 Score: 68%
+622,Correct,Random Forest,1,F1 Score: 68%
+623,Correct,Random Forest,1,F1 Score: 68%
+624,Correct,Random Forest,1,F1 Score: 68%
+625,Correct,Random Forest,1,F1 Score: 68%
+626,Correct,Random Forest,1,F1 Score: 68%
+627,Correct,Random Forest,1,F1 Score: 68%
+628,Correct,Random Forest,1,F1 Score: 68%
+629,Correct,Random Forest,1,F1 Score: 68%
+630,Correct,Random Forest,1,F1 Score: 68%
+631,Correct,Random Forest,1,F1 Score: 68%
+632,Correct,Random Forest,1,F1 Score: 68%
+633,Correct,Random Forest,1,F1 Score: 68%
+634,Correct,Random Forest,1,F1 Score: 68%
+635,Correct,Random Forest,1,F1 Score: 68%
+636,Correct,Random Forest,1,F1 Score: 68%
+637,Correct,Random Forest,1,F1 Score: 68%
+638,Correct,Random Forest,1,F1 Score: 68%
+639,Correct,Random Forest,1,F1 Score: 68%
+640,Correct,Random Forest,1,F1 Score: 68%
+641,Correct,Random Forest,1,F1 Score: 68%
+642,Correct,Random Forest,1,F1 Score: 68%
+643,Correct,Random Forest,1,F1 Score: 68%
+644,Correct,Random Forest,1,F1 Score: 68%
+645,Correct,Random Forest,1,F1 Score: 68%
+646,Correct,Random Forest,1,F1 Score: 68%
+647,Correct,Random Forest,1,F1 Score: 68%
+648,Correct,Random Forest,1,F1 Score: 68%
+649,Correct,Random Forest,1,F1 Score: 68%
+650,Correct,Random Forest,1,F1 Score: 68%
+651,Correct,Random Forest,1,F1 Score: 68%
+652,Correct,Random Forest,1,F1 Score: 68%
+653,Correct,Random Forest,1,F1 Score: 68%
+654,Correct,Random Forest,1,F1 Score: 68%
+655,Correct,Random Forest,1,F1 Score: 68%
+656,Correct,Random Forest,1,F1 Score: 68%
+657,Correct,Random Forest,1,F1 Score: 68%
+658,Correct,Random Forest,1,F1 Score: 68%
+659,Correct,Random Forest,1,F1 Score: 68%
+660,Correct,Random Forest,1,F1 Score: 68%
+661,Correct,Random Forest,1,F1 Score: 68%
+662,Correct,Random Forest,1,F1 Score: 68%
+663,Correct,Random Forest,1,F1 Score: 68%
+664,Correct,Random Forest,1,F1 Score: 68%
+665,Correct,Random Forest,1,F1 Score: 68%
+666,Correct,Random Forest,1,F1 Score: 68%
+667,Correct,Random Forest,1,F1 Score: 68%
+668,Correct,Random Forest,1,F1 Score: 68%
+669,Wrong,Random Forest,1,F1 Score: 68%
+670,Wrong,Random Forest,1,F1 Score: 68%
+671,Wrong,Random Forest,1,F1 Score: 68%
+672,Wrong,Random Forest,1,F1 Score: 68%
+673,Wrong,Random Forest,1,F1 Score: 68%
+674,Wrong,Random Forest,1,F1 Score: 68%
+675,Wrong,Random Forest,1,F1 Score: 68%
+676,Wrong,Random Forest,1,F1 Score: 68%
+677,Wrong,Random Forest,1,F1 Score: 68%
+678,Wrong,Random Forest,1,F1 Score: 68%
+679,Wrong,Random Forest,1,F1 Score: 68%
+680,Wrong,Random Forest,1,F1 Score: 68%
+681,Wrong,Random Forest,1,F1 Score: 68%
+682,Wrong,Random Forest,1,F1 Score: 68%
+683,Wrong,Random Forest,1,F1 Score: 68%
+684,Wrong,Random Forest,1,F1 Score: 68%
+685,Wrong,Random Forest,1,F1 Score: 68%
+686,Wrong,Random Forest,1,F1 Score: 68%
+687,Wrong,Random Forest,1,F1 Score: 68%
+688,Wrong,Random Forest,1,F1 Score: 68%
+689,Wrong,Random Forest,1,F1 Score: 68%
+690,Wrong,Random Forest,1,F1 Score: 68%
+691,Wrong,Random Forest,1,F1 Score: 68%
+692,Wrong,Random Forest,1,F1 Score: 68%
+693,Wrong,Random Forest,1,F1 Score: 68%
+694,Wrong,Random Forest,1,F1 Score: 68%
+695,Wrong,Random Forest,1,F1 Score: 68%
+696,Wrong,Random Forest,1,F1 Score: 68%
+697,Wrong,Random Forest,1,F1 Score: 68%
+698,Wrong,Random Forest,1,F1 Score: 68%
+699,Wrong,Random Forest,1,F1 Score: 68%
+700,Wrong,Random Forest,1,F1 Score: 68%
+701,Correct,XGBoost,1,F1 Score: 90%
+702,Correct,XGBoost,1,F1 Score: 90%
+703,Correct,XGBoost,1,F1 Score: 90%
+704,Correct,XGBoost,1,F1 Score: 90%
+705,Correct,XGBoost,1,F1 Score: 90%
+706,Correct,XGBoost,1,F1 Score: 90%
+707,Correct,XGBoost,1,F1 Score: 90%
+708,Correct,XGBoost,1,F1 Score: 90%
+709,Correct,XGBoost,1,F1 Score: 90%
+710,Correct,XGBoost,1,F1 Score: 90%
+711,Correct,XGBoost,1,F1 Score: 90%
+712,Correct,XGBoost,1,F1 Score: 90%
+713,Correct,XGBoost,1,F1 Score: 90%
+714,Correct,XGBoost,1,F1 Score: 90%
+715,Correct,XGBoost,1,F1 Score: 90%
+716,Correct,XGBoost,1,F1 Score: 90%
+717,Correct,XGBoost,1,F1 Score: 90%
+718,Correct,XGBoost,1,F1 Score: 90%
+719,Correct,XGBoost,1,F1 Score: 90%
+720,Correct,XGBoost,1,F1 Score: 90%
+721,Correct,XGBoost,1,F1 Score: 90%
+722,Correct,XGBoost,1,F1 Score: 90%
+723,Correct,XGBoost,1,F1 Score: 90%
+724,Correct,XGBoost,1,F1 Score: 90%
+725,Correct,XGBoost,1,F1 Score: 90%
+726,Correct,XGBoost,1,F1 Score: 90%
+727,Correct,XGBoost,1,F1 Score: 90%
+728,Correct,XGBoost,1,F1 Score: 90%
+729,Correct,XGBoost,1,F1 Score: 90%
+730,Correct,XGBoost,1,F1 Score: 90%
+731,Correct,XGBoost,1,F1 Score: 90%
+732,Correct,XGBoost,1,F1 Score: 90%
+733,Correct,XGBoost,1,F1 Score: 90%
+734,Correct,XGBoost,1,F1 Score: 90%
+735,Correct,XGBoost,1,F1 Score: 90%
+736,Correct,XGBoost,1,F1 Score: 90%
+737,Correct,XGBoost,1,F1 Score: 90%
+738,Correct,XGBoost,1,F1 Score: 90%
+739,Correct,XGBoost,1,F1 Score: 90%
+740,Correct,XGBoost,1,F1 Score: 90%
+741,Correct,XGBoost,1,F1 Score: 90%
+742,Correct,XGBoost,1,F1 Score: 90%
+743,Correct,XGBoost,1,F1 Score: 90%
+744,Correct,XGBoost,1,F1 Score: 90%
+745,Correct,XGBoost,1,F1 Score: 90%
+746,Correct,XGBoost,1,F1 Score: 90%
+747,Correct,XGBoost,1,F1 Score: 90%
+748,Correct,XGBoost,1,F1 Score: 90%
+749,Correct,XGBoost,1,F1 Score: 90%
+750,Correct,XGBoost,1,F1 Score: 90%
+751,Correct,XGBoost,1,F1 Score: 90%
+752,Correct,XGBoost,1,F1 Score: 90%
+753,Correct,XGBoost,1,F1 Score: 90%
+754,Correct,XGBoost,1,F1 Score: 90%
+755,Correct,XGBoost,1,F1 Score: 90%
+756,Correct,XGBoost,1,F1 Score: 90%
+757,Correct,XGBoost,1,F1 Score: 90%
+758,Correct,XGBoost,1,F1 Score: 90%
+759,Correct,XGBoost,1,F1 Score: 90%
+760,Correct,XGBoost,1,F1 Score: 90%
+761,Correct,XGBoost,1,F1 Score: 90%
+762,Correct,XGBoost,1,F1 Score: 90%
+763,Correct,XGBoost,1,F1 Score: 90%
+764,Correct,XGBoost,1,F1 Score: 90%
+765,Correct,XGBoost,1,F1 Score: 90%
+766,Correct,XGBoost,1,F1 Score: 90%
+767,Correct,XGBoost,1,F1 Score: 90%
+768,Correct,XGBoost,1,F1 Score: 90%
+769,Correct,XGBoost,1,F1 Score: 90%
+770,Correct,XGBoost,1,F1 Score: 90%
+771,Correct,XGBoost,1,F1 Score: 90%
+772,Correct,XGBoost,1,F1 Score: 90%
+773,Correct,XGBoost,1,F1 Score: 90%
+774,Correct,XGBoost,1,F1 Score: 90%
+775,Correct,XGBoost,1,F1 Score: 90%
+776,Correct,XGBoost,1,F1 Score: 90%
+777,Correct,XGBoost,1,F1 Score: 90%
+778,Correct,XGBoost,1,F1 Score: 90%
+779,Correct,XGBoost,1,F1 Score: 90%
+780,Correct,XGBoost,1,F1 Score: 90%
+781,Correct,XGBoost,1,F1 Score: 90%
+782,Correct,XGBoost,1,F1 Score: 90%
+783,Correct,XGBoost,1,F1 Score: 90%
+784,Correct,XGBoost,1,F1 Score: 90%
+785,Correct,XGBoost,1,F1 Score: 90%
+786,Correct,XGBoost,1,F1 Score: 90%
+787,Correct,XGBoost,1,F1 Score: 90%
+788,Correct,XGBoost,1,F1 Score: 90%
+789,Correct,XGBoost,1,F1 Score: 90%
+790,Correct,XGBoost,1,F1 Score: 90%
+791,Wrong,XGBoost,1,F1 Score: 90%
+792,Wrong,XGBoost,1,F1 Score: 90%
+793,Wrong,XGBoost,1,F1 Score: 90%
+794,Wrong,XGBoost,1,F1 Score: 90%
+795,Wrong,XGBoost,1,F1 Score: 90%
+796,Wrong,XGBoost,1,F1 Score: 90%
+797,Wrong,XGBoost,1,F1 Score: 90%
+798,Wrong,XGBoost,1,F1 Score: 90%
+799,Wrong,XGBoost,1,F1 Score: 90%
+800,Wrong,XGBoost,1,F1 Score: 90%
+801,Correct,Logistic Regression,1,F1 Score: 68%
+802,Correct,Logistic Regression,1,F1 Score: 68%
+803,Correct,Logistic Regression,1,F1 Score: 68%
+804,Correct,Logistic Regression,1,F1 Score: 68%
+805,Correct,Logistic Regression,1,F1 Score: 68%
+806,Correct,Logistic Regression,1,F1 Score: 68%
+807,Correct,Logistic Regression,1,F1 Score: 68%
+808,Correct,Logistic Regression,1,F1 Score: 68%
+809,Correct,Logistic Regression,1,F1 Score: 68%
+810,Correct,Logistic Regression,1,F1 Score: 68%
+811,Correct,Logistic Regression,1,F1 Score: 68%
+812,Correct,Logistic Regression,1,F1 Score: 68%
+813,Correct,Logistic Regression,1,F1 Score: 68%
+814,Correct,Logistic Regression,1,F1 Score: 68%
+815,Correct,Logistic Regression,1,F1 Score: 68%
+816,Correct,Logistic Regression,1,F1 Score: 68%
+817,Correct,Logistic Regression,1,F1 Score: 68%
+818,Correct,Logistic Regression,1,F1 Score: 68%
+819,Correct,Logistic Regression,1,F1 Score: 68%
+820,Correct,Logistic Regression,1,F1 Score: 68%
+821,Correct,Logistic Regression,1,F1 Score: 68%
+822,Correct,Logistic Regression,1,F1 Score: 68%
+823,Correct,Logistic Regression,1,F1 Score: 68%
+824,Correct,Logistic Regression,1,F1 Score: 68%
+825,Correct,Logistic Regression,1,F1 Score: 68%
+826,Correct,Logistic Regression,1,F1 Score: 68%
+827,Correct,Logistic Regression,1,F1 Score: 68%
+828,Correct,Logistic Regression,1,F1 Score: 68%
+829,Correct,Logistic Regression,1,F1 Score: 68%
+830,Correct,Logistic Regression,1,F1 Score: 68%
+831,Correct,Logistic Regression,1,F1 Score: 68%
+832,Correct,Logistic Regression,1,F1 Score: 68%
+833,Correct,Logistic Regression,1,F1 Score: 68%
+834,Correct,Logistic Regression,1,F1 Score: 68%
+835,Correct,Logistic Regression,1,F1 Score: 68%
+836,Correct,Logistic Regression,1,F1 Score: 68%
+837,Correct,Logistic Regression,1,F1 Score: 68%
+838,Correct,Logistic Regression,1,F1 Score: 68%
+839,Correct,Logistic Regression,1,F1 Score: 68%
+840,Correct,Logistic Regression,1,F1 Score: 68%
+841,Correct,Logistic Regression,1,F1 Score: 68%
+842,Correct,Logistic Regression,1,F1 Score: 68%
+843,Correct,Logistic Regression,1,F1 Score: 68%
+844,Correct,Logistic Regression,1,F1 Score: 68%
+845,Correct,Logistic Regression,1,F1 Score: 68%
+846,Correct,Logistic Regression,1,F1 Score: 68%
+847,Correct,Logistic Regression,1,F1 Score: 68%
+848,Correct,Logistic Regression,1,F1 Score: 68%
+849,Correct,Logistic Regression,1,F1 Score: 68%
+850,Correct,Logistic Regression,1,F1 Score: 68%
+851,Correct,Logistic Regression,1,F1 Score: 68%
+852,Correct,Logistic Regression,1,F1 Score: 68%
+853,Correct,Logistic Regression,1,F1 Score: 68%
+854,Correct,Logistic Regression,1,F1 Score: 68%
+855,Correct,Logistic Regression,1,F1 Score: 68%
+856,Correct,Logistic Regression,1,F1 Score: 68%
+857,Correct,Logistic Regression,1,F1 Score: 68%
+858,Correct,Logistic Regression,1,F1 Score: 68%
+859,Correct,Logistic Regression,1,F1 Score: 68%
+860,Correct,Logistic Regression,1,F1 Score: 68%
+861,Correct,Logistic Regression,1,F1 Score: 68%
+862,Correct,Logistic Regression,1,F1 Score: 68%
+863,Correct,Logistic Regression,1,F1 Score: 68%
+864,Correct,Logistic Regression,1,F1 Score: 68%
+865,Correct,Logistic Regression,1,F1 Score: 68%
+866,Correct,Logistic Regression,1,F1 Score: 68%
+867,Correct,Logistic Regression,1,F1 Score: 68%
+868,Correct,Logistic Regression,1,F1 Score: 68%
+869,Wrong,Logistic Regression,1,F1 Score: 68%
+870,Wrong,Logistic Regression,1,F1 Score: 68%
+871,Wrong,Logistic Regression,1,F1 Score: 68%
+872,Wrong,Logistic Regression,1,F1 Score: 68%
+873,Wrong,Logistic Regression,1,F1 Score: 68%
+874,Wrong,Logistic Regression,1,F1 Score: 68%
+875,Wrong,Logistic Regression,1,F1 Score: 68%
+876,Wrong,Logistic Regression,1,F1 Score: 68%
+877,Wrong,Logistic Regression,1,F1 Score: 68%
+878,Wrong,Logistic Regression,1,F1 Score: 68%
+879,Wrong,Logistic Regression,1,F1 Score: 68%
+880,Wrong,Logistic Regression,1,F1 Score: 68%
+881,Wrong,Logistic Regression,1,F1 Score: 68%
+882,Wrong,Logistic Regression,1,F1 Score: 68%
+883,Wrong,Logistic Regression,1,F1 Score: 68%
+884,Wrong,Logistic Regression,1,F1 Score: 68%
+885,Wrong,Logistic Regression,1,F1 Score: 68%
+886,Wrong,Logistic Regression,1,F1 Score: 68%
+887,Wrong,Logistic Regression,1,F1 Score: 68%
+888,Wrong,Logistic Regression,1,F1 Score: 68%
+889,Wrong,Logistic Regression,1,F1 Score: 68%
+890,Wrong,Logistic Regression,1,F1 Score: 68%
+891,Wrong,Logistic Regression,1,F1 Score: 68%
+892,Wrong,Logistic Regression,1,F1 Score: 68%
+893,Wrong,Logistic Regression,1,F1 Score: 68%
+894,Wrong,Logistic Regression,1,F1 Score: 68%
+895,Wrong,Logistic Regression,1,F1 Score: 68%
+896,Wrong,Logistic Regression,1,F1 Score: 68%
+897,Wrong,Logistic Regression,1,F1 Score: 68%
+898,Wrong,Logistic Regression,1,F1 Score: 68%
+899,Wrong,Logistic Regression,1,F1 Score: 68%
+900,Wrong,Logistic Regression,1,F1 Score: 68%
+901,Correct,Naive Bayes,1,F1 Score: 69%
+902,Correct,Naive Bayes,1,F1 Score: 69%
+903,Correct,Naive Bayes,1,F1 Score: 69%
+904,Correct,Naive Bayes,1,F1 Score: 69%
+905,Correct,Naive Bayes,1,F1 Score: 69%
+906,Correct,Naive Bayes,1,F1 Score: 69%
+907,Correct,Naive Bayes,1,F1 Score: 69%
+908,Correct,Naive Bayes,1,F1 Score: 69%
+909,Correct,Naive Bayes,1,F1 Score: 69%
+910,Correct,Naive Bayes,1,F1 Score: 69%
+911,Correct,Naive Bayes,1,F1 Score: 69%
+912,Correct,Naive Bayes,1,F1 Score: 69%
+913,Correct,Naive Bayes,1,F1 Score: 69%
+914,Correct,Naive Bayes,1,F1 Score: 69%
+915,Correct,Naive Bayes,1,F1 Score: 69%
+916,Correct,Naive Bayes,1,F1 Score: 69%
+917,Correct,Naive Bayes,1,F1 Score: 69%
+918,Correct,Naive Bayes,1,F1 Score: 69%
+919,Correct,Naive Bayes,1,F1 Score: 69%
+920,Correct,Naive Bayes,1,F1 Score: 69%
+921,Correct,Naive Bayes,1,F1 Score: 69%
+922,Correct,Naive Bayes,1,F1 Score: 69%
+923,Correct,Naive Bayes,1,F1 Score: 69%
+924,Correct,Naive Bayes,1,F1 Score: 69%
+925,Correct,Naive Bayes,1,F1 Score: 69%
+926,Correct,Naive Bayes,1,F1 Score: 69%
+927,Correct,Naive Bayes,1,F1 Score: 69%
+928,Correct,Naive Bayes,1,F1 Score: 69%
+929,Correct,Naive Bayes,1,F1 Score: 69%
+930,Correct,Naive Bayes,1,F1 Score: 69%
+931,Correct,Naive Bayes,1,F1 Score: 69%
+932,Correct,Naive Bayes,1,F1 Score: 69%
+933,Correct,Naive Bayes,1,F1 Score: 69%
+934,Correct,Naive Bayes,1,F1 Score: 69%
+935,Correct,Naive Bayes,1,F1 Score: 69%
+936,Correct,Naive Bayes,1,F1 Score: 69%
+937,Correct,Naive Bayes,1,F1 Score: 69%
+938,Correct,Naive Bayes,1,F1 Score: 69%
+939,Correct,Naive Bayes,1,F1 Score: 69%
+940,Correct,Naive Bayes,1,F1 Score: 69%
+941,Correct,Naive Bayes,1,F1 Score: 69%
+942,Correct,Naive Bayes,1,F1 Score: 69%
+943,Correct,Naive Bayes,1,F1 Score: 69%
+944,Correct,Naive Bayes,1,F1 Score: 69%
+945,Correct,Naive Bayes,1,F1 Score: 69%
+946,Correct,Naive Bayes,1,F1 Score: 69%
+947,Correct,Naive Bayes,1,F1 Score: 69%
+948,Correct,Naive Bayes,1,F1 Score: 69%
+949,Correct,Naive Bayes,1,F1 Score: 69%
+950,Correct,Naive Bayes,1,F1 Score: 69%
+951,Correct,Naive Bayes,1,F1 Score: 69%
+952,Correct,Naive Bayes,1,F1 Score: 69%
+953,Correct,Naive Bayes,1,F1 Score: 69%
+954,Correct,Naive Bayes,1,F1 Score: 69%
+955,Correct,Naive Bayes,1,F1 Score: 69%
+956,Correct,Naive Bayes,1,F1 Score: 69%
+957,Correct,Naive Bayes,1,F1 Score: 69%
+958,Correct,Naive Bayes,1,F1 Score: 69%
+959,Correct,Naive Bayes,1,F1 Score: 69%
+960,Correct,Naive Bayes,1,F1 Score: 69%
+961,Correct,Naive Bayes,1,F1 Score: 69%
+962,Correct,Naive Bayes,1,F1 Score: 69%
+963,Correct,Naive Bayes,1,F1 Score: 69%
+964,Correct,Naive Bayes,1,F1 Score: 69%
+965,Correct,Naive Bayes,1,F1 Score: 69%
+966,Correct,Naive Bayes,1,F1 Score: 69%
+967,Correct,Naive Bayes,1,F1 Score: 69%
+968,Correct,Naive Bayes,1,F1 Score: 69%
+969,Correct,Naive Bayes,1,F1 Score: 69%
+970,Wrong,Naive Bayes,1,F1 Score: 69%
+971,Wrong,Naive Bayes,1,F1 Score: 69%
+972,Wrong,Naive Bayes,1,F1 Score: 69%
+973,Wrong,Naive Bayes,1,F1 Score: 69%
+974,Wrong,Naive Bayes,1,F1 Score: 69%
+975,Wrong,Naive Bayes,1,F1 Score: 69%
+976,Wrong,Naive Bayes,1,F1 Score: 69%
+977,Wrong,Naive Bayes,1,F1 Score: 69%
+978,Wrong,Naive Bayes,1,F1 Score: 69%
+979,Wrong,Naive Bayes,1,F1 Score: 69%
+980,Wrong,Naive Bayes,1,F1 Score: 69%
+981,Wrong,Naive Bayes,1,F1 Score: 69%
+982,Wrong,Naive Bayes,1,F1 Score: 69%
+983,Wrong,Naive Bayes,1,F1 Score: 69%
+984,Wrong,Naive Bayes,1,F1 Score: 69%
+985,Wrong,Naive Bayes,1,F1 Score: 69%
+986,Wrong,Naive Bayes,1,F1 Score: 69%
+987,Wrong,Naive Bayes,1,F1 Score: 69%
+988,Wrong,Naive Bayes,1,F1 Score: 69%
+989,Wrong,Naive Bayes,1,F1 Score: 69%
+990,Wrong,Naive Bayes,1,F1 Score: 69%
+991,Wrong,Naive Bayes,1,F1 Score: 69%
+992,Wrong,Naive Bayes,1,F1 Score: 69%
+993,Wrong,Naive Bayes,1,F1 Score: 69%
+994,Wrong,Naive Bayes,1,F1 Score: 69%
+995,Wrong,Naive Bayes,1,F1 Score: 69%
+996,Wrong,Naive Bayes,1,F1 Score: 69%
+997,Wrong,Naive Bayes,1,F1 Score: 69%
+998,Wrong,Naive Bayes,1,F1 Score: 69%
+999,Wrong,Naive Bayes,1,F1 Score: 69%
+1000,Wrong,Naive Bayes,1,F1 Score: 69%
+1001,Correct,Random Forest,1,F1 Score: 68%
+1002,Correct,Random Forest,1,F1 Score: 68%
+1003,Correct,Random Forest,1,F1 Score: 68%
+1004,Correct,Random Forest,1,F1 Score: 68%
+1005,Correct,Random Forest,1,F1 Score: 68%
+1006,Correct,Random Forest,1,F1 Score: 68%
+1007,Correct,Random Forest,1,F1 Score: 68%
+1008,Correct,Random Forest,1,F1 Score: 68%
+1009,Correct,Random Forest,1,F1 Score: 68%
+1010,Correct,Random Forest,1,F1 Score: 68%
+1011,Correct,Random Forest,1,F1 Score: 68%
+1012,Correct,Random Forest,1,F1 Score: 68%
+1013,Correct,Random Forest,1,F1 Score: 68%
+1014,Correct,Random Forest,1,F1 Score: 68%
+1015,Correct,Random Forest,1,F1 Score: 68%
+1016,Correct,Random Forest,1,F1 Score: 68%
+1017,Correct,Random Forest,1,F1 Score: 68%
+1018,Correct,Random Forest,1,F1 Score: 68%
+1019,Correct,Random Forest,1,F1 Score: 68%
+1020,Correct,Random Forest,1,F1 Score: 68%
+1021,Correct,Random Forest,1,F1 Score: 68%
+1022,Correct,Random Forest,1,F1 Score: 68%
+1023,Correct,Random Forest,1,F1 Score: 68%
+1024,Correct,Random Forest,1,F1 Score: 68%
+1025,Correct,Random Forest,1,F1 Score: 68%
+1026,Correct,Random Forest,1,F1 Score: 68%
+1027,Correct,Random Forest,1,F1 Score: 68%
+1028,Correct,Random Forest,1,F1 Score: 68%
+1029,Correct,Random Forest,1,F1 Score: 68%
+1030,Correct,Random Forest,1,F1 Score: 68%
+1031,Correct,Random Forest,1,F1 Score: 68%
+1032,Correct,Random Forest,1,F1 Score: 68%
+1033,Correct,Random Forest,1,F1 Score: 68%
+1034,Correct,Random Forest,1,F1 Score: 68%
+1035,Correct,Random Forest,1,F1 Score: 68%
+1036,Correct,Random Forest,1,F1 Score: 68%
+1037,Correct,Random Forest,1,F1 Score: 68%
+1038,Correct,Random Forest,1,F1 Score: 68%
+1039,Correct,Random Forest,1,F1 Score: 68%
+1040,Correct,Random Forest,1,F1 Score: 68%
+1041,Correct,Random Forest,1,F1 Score: 68%
+1042,Correct,Random Forest,1,F1 Score: 68%
+1043,Correct,Random Forest,1,F1 Score: 68%
+1044,Correct,Random Forest,1,F1 Score: 68%
+1045,Correct,Random Forest,1,F1 Score: 68%
+1046,Correct,Random Forest,1,F1 Score: 68%
+1047,Correct,Random Forest,1,F1 Score: 68%
+1048,Correct,Random Forest,1,F1 Score: 68%
+1049,Correct,Random Forest,1,F1 Score: 68%
+1050,Correct,Random Forest,1,F1 Score: 68%
+1051,Correct,Random Forest,1,F1 Score: 68%
+1052,Correct,Random Forest,1,F1 Score: 68%
+1053,Correct,Random Forest,1,F1 Score: 68%
+1054,Correct,Random Forest,1,F1 Score: 68%
+1055,Correct,Random Forest,1,F1 Score: 68%
+1056,Correct,Random Forest,1,F1 Score: 68%
+1057,Correct,Random Forest,1,F1 Score: 68%
+1058,Correct,Random Forest,1,F1 Score: 68%
+1059,Correct,Random Forest,1,F1 Score: 68%
+1060,Correct,Random Forest,1,F1 Score: 68%
+1061,Correct,Random Forest,1,F1 Score: 68%
+1062,Correct,Random Forest,1,F1 Score: 68%
+1063,Correct,Random Forest,1,F1 Score: 68%
+1064,Correct,Random Forest,1,F1 Score: 68%
+1065,Correct,Random Forest,1,F1 Score: 68%
+1066,Correct,Random Forest,1,F1 Score: 68%
+1067,Correct,Random Forest,1,F1 Score: 68%
+1068,Correct,Random Forest,1,F1 Score: 68%
+1069,Wrong,Random Forest,1,F1 Score: 68%
+1070,Wrong,Random Forest,1,F1 Score: 68%
+1071,Wrong,Random Forest,1,F1 Score: 68%
+1072,Wrong,Random Forest,1,F1 Score: 68%
+1073,Wrong,Random Forest,1,F1 Score: 68%
+1074,Wrong,Random Forest,1,F1 Score: 68%
+1075,Wrong,Random Forest,1,F1 Score: 68%
+1076,Wrong,Random Forest,1,F1 Score: 68%
+1077,Wrong,Random Forest,1,F1 Score: 68%
+1078,Wrong,Random Forest,1,F1 Score: 68%
+1079,Wrong,Random Forest,1,F1 Score: 68%
+1080,Wrong,Random Forest,1,F1 Score: 68%
+1081,Wrong,Random Forest,1,F1 Score: 68%
+1082,Wrong,Random Forest,1,F1 Score: 68%
+1083,Wrong,Random Forest,1,F1 Score: 68%
+1084,Wrong,Random Forest,1,F1 Score: 68%
+1085,Wrong,Random Forest,1,F1 Score: 68%
+1086,Wrong,Random Forest,1,F1 Score: 68%
+1087,Wrong,Random Forest,1,F1 Score: 68%
+1088,Wrong,Random Forest,1,F1 Score: 68%
+1089,Wrong,Random Forest,1,F1 Score: 68%
+1090,Wrong,Random Forest,1,F1 Score: 68%
+1091,Wrong,Random Forest,1,F1 Score: 68%
+1092,Wrong,Random Forest,1,F1 Score: 68%
+1093,Wrong,Random Forest,1,F1 Score: 68%
+1094,Wrong,Random Forest,1,F1 Score: 68%
+1095,Wrong,Random Forest,1,F1 Score: 68%
+1096,Wrong,Random Forest,1,F1 Score: 68%
+1097,Wrong,Random Forest,1,F1 Score: 68%
+1098,Wrong,Random Forest,1,F1 Score: 68%
+1099,Wrong,Random Forest,1,F1 Score: 68%
+1100,Wrong,Random Forest,1,F1 Score: 68%
+1101,Correct,XGBoost,1,F1 Score: 90%
+1102,Correct,XGBoost,1,F1 Score: 90%
+1103,Correct,XGBoost,1,F1 Score: 90%
+1104,Correct,XGBoost,1,F1 Score: 90%
+1105,Correct,XGBoost,1,F1 Score: 90%
+1106,Correct,XGBoost,1,F1 Score: 90%
+1107,Correct,XGBoost,1,F1 Score: 90%
+1108,Correct,XGBoost,1,F1 Score: 90%
+1109,Correct,XGBoost,1,F1 Score: 90%
+1110,Correct,XGBoost,1,F1 Score: 90%
+1111,Correct,XGBoost,1,F1 Score: 90%
+1112,Correct,XGBoost,1,F1 Score: 90%
+1113,Correct,XGBoost,1,F1 Score: 90%
+1114,Correct,XGBoost,1,F1 Score: 90%
+1115,Correct,XGBoost,1,F1 Score: 90%
+1116,Correct,XGBoost,1,F1 Score: 90%
+1117,Correct,XGBoost,1,F1 Score: 90%
+1118,Correct,XGBoost,1,F1 Score: 90%
+1119,Correct,XGBoost,1,F1 Score: 90%
+1120,Correct,XGBoost,1,F1 Score: 90%
+1121,Correct,XGBoost,1,F1 Score: 90%
+1122,Correct,XGBoost,1,F1 Score: 90%
+1123,Correct,XGBoost,1,F1 Score: 90%
+1124,Correct,XGBoost,1,F1 Score: 90%
+1125,Correct,XGBoost,1,F1 Score: 90%
+1126,Correct,XGBoost,1,F1 Score: 90%
+1127,Correct,XGBoost,1,F1 Score: 90%
+1128,Correct,XGBoost,1,F1 Score: 90%
+1129,Correct,XGBoost,1,F1 Score: 90%
+1130,Correct,XGBoost,1,F1 Score: 90%
+1131,Correct,XGBoost,1,F1 Score: 90%
+1132,Correct,XGBoost,1,F1 Score: 90%
+1133,Correct,XGBoost,1,F1 Score: 90%
+1134,Correct,XGBoost,1,F1 Score: 90%
+1135,Correct,XGBoost,1,F1 Score: 90%
+1136,Correct,XGBoost,1,F1 Score: 90%
+1137,Correct,XGBoost,1,F1 Score: 90%
+1138,Correct,XGBoost,1,F1 Score: 90%
+1139,Correct,XGBoost,1,F1 Score: 90%
+1140,Correct,XGBoost,1,F1 Score: 90%
+1141,Correct,XGBoost,1,F1 Score: 90%
+1142,Correct,XGBoost,1,F1 Score: 90%
+1143,Correct,XGBoost,1,F1 Score: 90%
+1144,Correct,XGBoost,1,F1 Score: 90%
+1145,Correct,XGBoost,1,F1 Score: 90%
+1146,Correct,XGBoost,1,F1 Score: 90%
+1147,Correct,XGBoost,1,F1 Score: 90%
+1148,Correct,XGBoost,1,F1 Score: 90%
+1149,Correct,XGBoost,1,F1 Score: 90%
+1150,Correct,XGBoost,1,F1 Score: 90%
+1151,Correct,XGBoost,1,F1 Score: 90%
+1152,Correct,XGBoost,1,F1 Score: 90%
+1153,Correct,XGBoost,1,F1 Score: 90%
+1154,Correct,XGBoost,1,F1 Score: 90%
+1155,Correct,XGBoost,1,F1 Score: 90%
+1156,Correct,XGBoost,1,F1 Score: 90%
+1157,Correct,XGBoost,1,F1 Score: 90%
+1158,Correct,XGBoost,1,F1 Score: 90%
+1159,Correct,XGBoost,1,F1 Score: 90%
+1160,Correct,XGBoost,1,F1 Score: 90%
+1161,Correct,XGBoost,1,F1 Score: 90%
+1162,Correct,XGBoost,1,F1 Score: 90%
+1163,Correct,XGBoost,1,F1 Score: 90%
+1164,Correct,XGBoost,1,F1 Score: 90%
+1165,Correct,XGBoost,1,F1 Score: 90%
+1166,Correct,XGBoost,1,F1 Score: 90%
+1167,Correct,XGBoost,1,F1 Score: 90%
+1168,Correct,XGBoost,1,F1 Score: 90%
+1169,Correct,XGBoost,1,F1 Score: 90%
+1170,Correct,XGBoost,1,F1 Score: 90%
+1171,Correct,XGBoost,1,F1 Score: 90%
+1172,Correct,XGBoost,1,F1 Score: 90%
+1173,Correct,XGBoost,1,F1 Score: 90%
+1174,Correct,XGBoost,1,F1 Score: 90%
+1175,Correct,XGBoost,1,F1 Score: 90%
+1176,Correct,XGBoost,1,F1 Score: 90%
+1177,Correct,XGBoost,1,F1 Score: 90%
+1178,Correct,XGBoost,1,F1 Score: 90%
+1179,Correct,XGBoost,1,F1 Score: 90%
+1180,Correct,XGBoost,1,F1 Score: 90%
+1181,Correct,XGBoost,1,F1 Score: 90%
+1182,Correct,XGBoost,1,F1 Score: 90%
+1183,Correct,XGBoost,1,F1 Score: 90%
+1184,Correct,XGBoost,1,F1 Score: 90%
+1185,Correct,XGBoost,1,F1 Score: 90%
+1186,Correct,XGBoost,1,F1 Score: 90%
+1187,Correct,XGBoost,1,F1 Score: 90%
+1188,Correct,XGBoost,1,F1 Score: 90%
+1189,Correct,XGBoost,1,F1 Score: 90%
+1190,Correct,XGBoost,1,F1 Score: 90%
+1191,Wrong,XGBoost,1,F1 Score: 90%
+1192,Wrong,XGBoost,1,F1 Score: 90%
+1193,Wrong,XGBoost,1,F1 Score: 90%
+1194,Wrong,XGBoost,1,F1 Score: 90%
+1195,Wrong,XGBoost,1,F1 Score: 90%
+1196,Wrong,XGBoost,1,F1 Score: 90%
+1197,Wrong,XGBoost,1,F1 Score: 90%
+1198,Wrong,XGBoost,1,F1 Score: 90%
+1199,Wrong,XGBoost,1,F1 Score: 90%
+1200,Wrong,XGBoost,1,F1 Score: 90%
+1201,Correct,Logistic Regression,1,F1 Score: 68%
+1202,Correct,Logistic Regression,1,F1 Score: 68%
+1203,Correct,Logistic Regression,1,F1 Score: 68%
+1204,Correct,Logistic Regression,1,F1 Score: 68%
+1205,Correct,Logistic Regression,1,F1 Score: 68%
+1206,Correct,Logistic Regression,1,F1 Score: 68%
+1207,Correct,Logistic Regression,1,F1 Score: 68%
+1208,Correct,Logistic Regression,1,F1 Score: 68%
+1209,Correct,Logistic Regression,1,F1 Score: 68%
+1210,Correct,Logistic Regression,1,F1 Score: 68%
+1211,Correct,Logistic Regression,1,F1 Score: 68%
+1212,Correct,Logistic Regression,1,F1 Score: 68%
+1213,Correct,Logistic Regression,1,F1 Score: 68%
+1214,Correct,Logistic Regression,1,F1 Score: 68%
+1215,Correct,Logistic Regression,1,F1 Score: 68%
+1216,Correct,Logistic Regression,1,F1 Score: 68%
+1217,Correct,Logistic Regression,1,F1 Score: 68%
+1218,Correct,Logistic Regression,1,F1 Score: 68%
+1219,Correct,Logistic Regression,1,F1 Score: 68%
+1220,Correct,Logistic Regression,1,F1 Score: 68%
+1221,Correct,Logistic Regression,1,F1 Score: 68%
+1222,Correct,Logistic Regression,1,F1 Score: 68%
+1223,Correct,Logistic Regression,1,F1 Score: 68%
+1224,Correct,Logistic Regression,1,F1 Score: 68%
+1225,Correct,Logistic Regression,1,F1 Score: 68%
+1226,Correct,Logistic Regression,1,F1 Score: 68%
+1227,Correct,Logistic Regression,1,F1 Score: 68%
+1228,Correct,Logistic Regression,1,F1 Score: 68%
+1229,Correct,Logistic Regression,1,F1 Score: 68%
+1230,Correct,Logistic Regression,1,F1 Score: 68%
+1231,Correct,Logistic Regression,1,F1 Score: 68%
+1232,Correct,Logistic Regression,1,F1 Score: 68%
+1233,Correct,Logistic Regression,1,F1 Score: 68%
+1234,Correct,Logistic Regression,1,F1 Score: 68%
+1235,Correct,Logistic Regression,1,F1 Score: 68%
+1236,Correct,Logistic Regression,1,F1 Score: 68%
+1237,Correct,Logistic Regression,1,F1 Score: 68%
+1238,Correct,Logistic Regression,1,F1 Score: 68%
+1239,Correct,Logistic Regression,1,F1 Score: 68%
+1240,Correct,Logistic Regression,1,F1 Score: 68%
+1241,Correct,Logistic Regression,1,F1 Score: 68%
+1242,Correct,Logistic Regression,1,F1 Score: 68%
+1243,Correct,Logistic Regression,1,F1 Score: 68%
+1244,Correct,Logistic Regression,1,F1 Score: 68%
+1245,Correct,Logistic Regression,1,F1 Score: 68%
+1246,Correct,Logistic Regression,1,F1 Score: 68%
+1247,Correct,Logistic Regression,1,F1 Score: 68%
+1248,Correct,Logistic Regression,1,F1 Score: 68%
+1249,Correct,Logistic Regression,1,F1 Score: 68%
+1250,Correct,Logistic Regression,1,F1 Score: 68%
+1251,Correct,Logistic Regression,1,F1 Score: 68%
+1252,Correct,Logistic Regression,1,F1 Score: 68%
+1253,Correct,Logistic Regression,1,F1 Score: 68%
+1254,Correct,Logistic Regression,1,F1 Score: 68%
+1255,Correct,Logistic Regression,1,F1 Score: 68%
+1256,Correct,Logistic Regression,1,F1 Score: 68%
+1257,Correct,Logistic Regression,1,F1 Score: 68%
+1258,Correct,Logistic Regression,1,F1 Score: 68%
+1259,Correct,Logistic Regression,1,F1 Score: 68%
+1260,Correct,Logistic Regression,1,F1 Score: 68%
+1261,Correct,Logistic Regression,1,F1 Score: 68%
+1262,Correct,Logistic Regression,1,F1 Score: 68%
+1263,Correct,Logistic Regression,1,F1 Score: 68%
+1264,Correct,Logistic Regression,1,F1 Score: 68%
+1265,Correct,Logistic Regression,1,F1 Score: 68%
+1266,Correct,Logistic Regression,1,F1 Score: 68%
+1267,Correct,Logistic Regression,1,F1 Score: 68%
+1268,Correct,Logistic Regression,1,F1 Score: 68%
+1269,Wrong,Logistic Regression,1,F1 Score: 68%
+1270,Wrong,Logistic Regression,1,F1 Score: 68%
+1271,Wrong,Logistic Regression,1,F1 Score: 68%
+1272,Wrong,Logistic Regression,1,F1 Score: 68%
+1273,Wrong,Logistic Regression,1,F1 Score: 68%
+1274,Wrong,Logistic Regression,1,F1 Score: 68%
+1275,Wrong,Logistic Regression,1,F1 Score: 68%
+1276,Wrong,Logistic Regression,1,F1 Score: 68%
+1277,Wrong,Logistic Regression,1,F1 Score: 68%
+1278,Wrong,Logistic Regression,1,F1 Score: 68%
+1279,Wrong,Logistic Regression,1,F1 Score: 68%
+1280,Wrong,Logistic Regression,1,F1 Score: 68%
+1281,Wrong,Logistic Regression,1,F1 Score: 68%
+1282,Wrong,Logistic Regression,1,F1 Score: 68%
+1283,Wrong,Logistic Regression,1,F1 Score: 68%
+1284,Wrong,Logistic Regression,1,F1 Score: 68%
+1285,Wrong,Logistic Regression,1,F1 Score: 68%
+1286,Wrong,Logistic Regression,1,F1 Score: 68%
+1287,Wrong,Logistic Regression,1,F1 Score: 68%
+1288,Wrong,Logistic Regression,1,F1 Score: 68%
+1289,Wrong,Logistic Regression,1,F1 Score: 68%
+1290,Wrong,Logistic Regression,1,F1 Score: 68%
+1291,Wrong,Logistic Regression,1,F1 Score: 68%
+1292,Wrong,Logistic Regression,1,F1 Score: 68%
+1293,Wrong,Logistic Regression,1,F1 Score: 68%
+1294,Wrong,Logistic Regression,1,F1 Score: 68%
+1295,Wrong,Logistic Regression,1,F1 Score: 68%
+1296,Wrong,Logistic Regression,1,F1 Score: 68%
+1297,Wrong,Logistic Regression,1,F1 Score: 68%
+1298,Wrong,Logistic Regression,1,F1 Score: 68%
+1299,Wrong,Logistic Regression,1,F1 Score: 68%
+1300,Wrong,Logistic Regression,1,F1 Score: 68%
+1301,Correct,Naive Bayes,1,F1 Score: 69%
+1302,Correct,Naive Bayes,1,F1 Score: 69%
+1303,Correct,Naive Bayes,1,F1 Score: 69%
+1304,Correct,Naive Bayes,1,F1 Score: 69%
+1305,Correct,Naive Bayes,1,F1 Score: 69%
+1306,Correct,Naive Bayes,1,F1 Score: 69%
+1307,Correct,Naive Bayes,1,F1 Score: 69%
+1308,Correct,Naive Bayes,1,F1 Score: 69%
+1309,Correct,Naive Bayes,1,F1 Score: 69%
+1310,Correct,Naive Bayes,1,F1 Score: 69%
+1311,Correct,Naive Bayes,1,F1 Score: 69%
+1312,Correct,Naive Bayes,1,F1 Score: 69%
+1313,Correct,Naive Bayes,1,F1 Score: 69%
+1314,Correct,Naive Bayes,1,F1 Score: 69%
+1315,Correct,Naive Bayes,1,F1 Score: 69%
+1316,Correct,Naive Bayes,1,F1 Score: 69%
+1317,Correct,Naive Bayes,1,F1 Score: 69%
+1318,Correct,Naive Bayes,1,F1 Score: 69%
+1319,Correct,Naive Bayes,1,F1 Score: 69%
+1320,Correct,Naive Bayes,1,F1 Score: 69%
+1321,Correct,Naive Bayes,1,F1 Score: 69%
+1322,Correct,Naive Bayes,1,F1 Score: 69%
+1323,Correct,Naive Bayes,1,F1 Score: 69%
+1324,Correct,Naive Bayes,1,F1 Score: 69%
+1325,Correct,Naive Bayes,1,F1 Score: 69%
+1326,Correct,Naive Bayes,1,F1 Score: 69%
+1327,Correct,Naive Bayes,1,F1 Score: 69%
+1328,Correct,Naive Bayes,1,F1 Score: 69%
+1329,Correct,Naive Bayes,1,F1 Score: 69%
+1330,Correct,Naive Bayes,1,F1 Score: 69%
+1331,Correct,Naive Bayes,1,F1 Score: 69%
+1332,Correct,Naive Bayes,1,F1 Score: 69%
+1333,Correct,Naive Bayes,1,F1 Score: 69%
+1334,Correct,Naive Bayes,1,F1 Score: 69%
+1335,Correct,Naive Bayes,1,F1 Score: 69%
+1336,Correct,Naive Bayes,1,F1 Score: 69%
+1337,Correct,Naive Bayes,1,F1 Score: 69%
+1338,Correct,Naive Bayes,1,F1 Score: 69%
+1339,Correct,Naive Bayes,1,F1 Score: 69%
+1340,Correct,Naive Bayes,1,F1 Score: 69%
+1341,Correct,Naive Bayes,1,F1 Score: 69%
+1342,Correct,Naive Bayes,1,F1 Score: 69%
+1343,Correct,Naive Bayes,1,F1 Score: 69%
+1344,Correct,Naive Bayes,1,F1 Score: 69%
+1345,Correct,Naive Bayes,1,F1 Score: 69%
+1346,Correct,Naive Bayes,1,F1 Score: 69%
+1347,Correct,Naive Bayes,1,F1 Score: 69%
+1348,Correct,Naive Bayes,1,F1 Score: 69%
+1349,Correct,Naive Bayes,1,F1 Score: 69%
+1350,Correct,Naive Bayes,1,F1 Score: 69%
+1351,Correct,Naive Bayes,1,F1 Score: 69%
+1352,Correct,Naive Bayes,1,F1 Score: 69%
+1353,Correct,Naive Bayes,1,F1 Score: 69%
+1354,Correct,Naive Bayes,1,F1 Score: 69%
+1355,Correct,Naive Bayes,1,F1 Score: 69%
+1356,Correct,Naive Bayes,1,F1 Score: 69%
+1357,Correct,Naive Bayes,1,F1 Score: 69%
+1358,Correct,Naive Bayes,1,F1 Score: 69%
+1359,Correct,Naive Bayes,1,F1 Score: 69%
+1360,Correct,Naive Bayes,1,F1 Score: 69%
+1361,Correct,Naive Bayes,1,F1 Score: 69%
+1362,Correct,Naive Bayes,1,F1 Score: 69%
+1363,Correct,Naive Bayes,1,F1 Score: 69%
+1364,Correct,Naive Bayes,1,F1 Score: 69%
+1365,Correct,Naive Bayes,1,F1 Score: 69%
+1366,Correct,Naive Bayes,1,F1 Score: 69%
+1367,Correct,Naive Bayes,1,F1 Score: 69%
+1368,Correct,Naive Bayes,1,F1 Score: 69%
+1369,Correct,Naive Bayes,1,F1 Score: 69%
+1370,Wrong,Naive Bayes,1,F1 Score: 69%
+1371,Wrong,Naive Bayes,1,F1 Score: 69%
+1372,Wrong,Naive Bayes,1,F1 Score: 69%
+1373,Wrong,Naive Bayes,1,F1 Score: 69%
+1374,Wrong,Naive Bayes,1,F1 Score: 69%
+1375,Wrong,Naive Bayes,1,F1 Score: 69%
+1376,Wrong,Naive Bayes,1,F1 Score: 69%
+1377,Wrong,Naive Bayes,1,F1 Score: 69%
+1378,Wrong,Naive Bayes,1,F1 Score: 69%
+1379,Wrong,Naive Bayes,1,F1 Score: 69%
+1380,Wrong,Naive Bayes,1,F1 Score: 69%
+1381,Wrong,Naive Bayes,1,F1 Score: 69%
+1382,Wrong,Naive Bayes,1,F1 Score: 69%
+1383,Wrong,Naive Bayes,1,F1 Score: 69%
+1384,Wrong,Naive Bayes,1,F1 Score: 69%
+1385,Wrong,Naive Bayes,1,F1 Score: 69%
+1386,Wrong,Naive Bayes,1,F1 Score: 69%
+1387,Wrong,Naive Bayes,1,F1 Score: 69%
+1388,Wrong,Naive Bayes,1,F1 Score: 69%
+1389,Wrong,Naive Bayes,1,F1 Score: 69%
+1390,Wrong,Naive Bayes,1,F1 Score: 69%
+1391,Wrong,Naive Bayes,1,F1 Score: 69%
+1392,Wrong,Naive Bayes,1,F1 Score: 69%
+1393,Wrong,Naive Bayes,1,F1 Score: 69%
+1394,Wrong,Naive Bayes,1,F1 Score: 69%
+1395,Wrong,Naive Bayes,1,F1 Score: 69%
+1396,Wrong,Naive Bayes,1,F1 Score: 69%
+1397,Wrong,Naive Bayes,1,F1 Score: 69%
+1398,Wrong,Naive Bayes,1,F1 Score: 69%
+1399,Wrong,Naive Bayes,1,F1 Score: 69%
+1400,Wrong,Naive Bayes,1,F1 Score: 69%
+1401,Correct,Random Forest,1,F1 Score: 68%
+1402,Correct,Random Forest,1,F1 Score: 68%
+1403,Correct,Random Forest,1,F1 Score: 68%
+1404,Correct,Random Forest,1,F1 Score: 68%
+1405,Correct,Random Forest,1,F1 Score: 68%
+1406,Correct,Random Forest,1,F1 Score: 68%
+1407,Correct,Random Forest,1,F1 Score: 68%
+1408,Correct,Random Forest,1,F1 Score: 68%
+1409,Correct,Random Forest,1,F1 Score: 68%
+1410,Correct,Random Forest,1,F1 Score: 68%
+1411,Correct,Random Forest,1,F1 Score: 68%
+1412,Correct,Random Forest,1,F1 Score: 68%
+1413,Correct,Random Forest,1,F1 Score: 68%
+1414,Correct,Random Forest,1,F1 Score: 68%
+1415,Correct,Random Forest,1,F1 Score: 68%
+1416,Correct,Random Forest,1,F1 Score: 68%
+1417,Correct,Random Forest,1,F1 Score: 68%
+1418,Correct,Random Forest,1,F1 Score: 68%
+1419,Correct,Random Forest,1,F1 Score: 68%
+1420,Correct,Random Forest,1,F1 Score: 68%
+1421,Correct,Random Forest,1,F1 Score: 68%
+1422,Correct,Random Forest,1,F1 Score: 68%
+1423,Correct,Random Forest,1,F1 Score: 68%
+1424,Correct,Random Forest,1,F1 Score: 68%
+1425,Correct,Random Forest,1,F1 Score: 68%
+1426,Correct,Random Forest,1,F1 Score: 68%
+1427,Correct,Random Forest,1,F1 Score: 68%
+1428,Correct,Random Forest,1,F1 Score: 68%
+1429,Correct,Random Forest,1,F1 Score: 68%
+1430,Correct,Random Forest,1,F1 Score: 68%
+1431,Correct,Random Forest,1,F1 Score: 68%
+1432,Correct,Random Forest,1,F1 Score: 68%
+1433,Correct,Random Forest,1,F1 Score: 68%
+1434,Correct,Random Forest,1,F1 Score: 68%
+1435,Correct,Random Forest,1,F1 Score: 68%
+1436,Correct,Random Forest,1,F1 Score: 68%
+1437,Correct,Random Forest,1,F1 Score: 68%
+1438,Correct,Random Forest,1,F1 Score: 68%
+1439,Correct,Random Forest,1,F1 Score: 68%
+1440,Correct,Random Forest,1,F1 Score: 68%
+1441,Correct,Random Forest,1,F1 Score: 68%
+1442,Correct,Random Forest,1,F1 Score: 68%
+1443,Correct,Random Forest,1,F1 Score: 68%
+1444,Correct,Random Forest,1,F1 Score: 68%
+1445,Correct,Random Forest,1,F1 Score: 68%
+1446,Correct,Random Forest,1,F1 Score: 68%
+1447,Correct,Random Forest,1,F1 Score: 68%
+1448,Correct,Random Forest,1,F1 Score: 68%
+1449,Correct,Random Forest,1,F1 Score: 68%
+1450,Correct,Random Forest,1,F1 Score: 68%
+1451,Correct,Random Forest,1,F1 Score: 68%
+1452,Correct,Random Forest,1,F1 Score: 68%
+1453,Correct,Random Forest,1,F1 Score: 68%
+1454,Correct,Random Forest,1,F1 Score: 68%
+1455,Correct,Random Forest,1,F1 Score: 68%
+1456,Correct,Random Forest,1,F1 Score: 68%
+1457,Correct,Random Forest,1,F1 Score: 68%
+1458,Correct,Random Forest,1,F1 Score: 68%
+1459,Correct,Random Forest,1,F1 Score: 68%
+1460,Correct,Random Forest,1,F1 Score: 68%
+1461,Correct,Random Forest,1,F1 Score: 68%
+1462,Correct,Random Forest,1,F1 Score: 68%
+1463,Correct,Random Forest,1,F1 Score: 68%
+1464,Correct,Random Forest,1,F1 Score: 68%
+1465,Correct,Random Forest,1,F1 Score: 68%
+1466,Correct,Random Forest,1,F1 Score: 68%
+1467,Correct,Random Forest,1,F1 Score: 68%
+1468,Correct,Random Forest,1,F1 Score: 68%
+1469,Wrong,Random Forest,1,F1 Score: 68%
+1470,Wrong,Random Forest,1,F1 Score: 68%
+1471,Wrong,Random Forest,1,F1 Score: 68%
+1472,Wrong,Random Forest,1,F1 Score: 68%
+1473,Wrong,Random Forest,1,F1 Score: 68%
+1474,Wrong,Random Forest,1,F1 Score: 68%
+1475,Wrong,Random Forest,1,F1 Score: 68%
+1476,Wrong,Random Forest,1,F1 Score: 68%
+1477,Wrong,Random Forest,1,F1 Score: 68%
+1478,Wrong,Random Forest,1,F1 Score: 68%
+1479,Wrong,Random Forest,1,F1 Score: 68%
+1480,Wrong,Random Forest,1,F1 Score: 68%
+1481,Wrong,Random Forest,1,F1 Score: 68%
+1482,Wrong,Random Forest,1,F1 Score: 68%
+1483,Wrong,Random Forest,1,F1 Score: 68%
+1484,Wrong,Random Forest,1,F1 Score: 68%
+1485,Wrong,Random Forest,1,F1 Score: 68%
+1486,Wrong,Random Forest,1,F1 Score: 68%
+1487,Wrong,Random Forest,1,F1 Score: 68%
+1488,Wrong,Random Forest,1,F1 Score: 68%
+1489,Wrong,Random Forest,1,F1 Score: 68%
+1490,Wrong,Random Forest,1,F1 Score: 68%
+1491,Wrong,Random Forest,1,F1 Score: 68%
+1492,Wrong,Random Forest,1,F1 Score: 68%
+1493,Wrong,Random Forest,1,F1 Score: 68%
+1494,Wrong,Random Forest,1,F1 Score: 68%
+1495,Wrong,Random Forest,1,F1 Score: 68%
+1496,Wrong,Random Forest,1,F1 Score: 68%
+1497,Wrong,Random Forest,1,F1 Score: 68%
+1498,Wrong,Random Forest,1,F1 Score: 68%
+1499,Wrong,Random Forest,1,F1 Score: 68%
+1500,Wrong,Random Forest,1,F1 Score: 68%
+1501,Correct,XGBoost,1,F1 Score: 90%
+1502,Correct,XGBoost,1,F1 Score: 90%
+1503,Correct,XGBoost,1,F1 Score: 90%
+1504,Correct,XGBoost,1,F1 Score: 90%
+1505,Correct,XGBoost,1,F1 Score: 90%
+1506,Correct,XGBoost,1,F1 Score: 90%
+1507,Correct,XGBoost,1,F1 Score: 90%
+1508,Correct,XGBoost,1,F1 Score: 90%
+1509,Correct,XGBoost,1,F1 Score: 90%
+1510,Correct,XGBoost,1,F1 Score: 90%
+1511,Correct,XGBoost,1,F1 Score: 90%
+1512,Correct,XGBoost,1,F1 Score: 90%
+1513,Correct,XGBoost,1,F1 Score: 90%
+1514,Correct,XGBoost,1,F1 Score: 90%
+1515,Correct,XGBoost,1,F1 Score: 90%
+1516,Correct,XGBoost,1,F1 Score: 90%
+1517,Correct,XGBoost,1,F1 Score: 90%
+1518,Correct,XGBoost,1,F1 Score: 90%
+1519,Correct,XGBoost,1,F1 Score: 90%
+1520,Correct,XGBoost,1,F1 Score: 90%
+1521,Correct,XGBoost,1,F1 Score: 90%
+1522,Correct,XGBoost,1,F1 Score: 90%
+1523,Correct,XGBoost,1,F1 Score: 90%
+1524,Correct,XGBoost,1,F1 Score: 90%
+1525,Correct,XGBoost,1,F1 Score: 90%
+1526,Correct,XGBoost,1,F1 Score: 90%
+1527,Correct,XGBoost,1,F1 Score: 90%
+1528,Correct,XGBoost,1,F1 Score: 90%
+1529,Correct,XGBoost,1,F1 Score: 90%
+1530,Correct,XGBoost,1,F1 Score: 90%
+1531,Correct,XGBoost,1,F1 Score: 90%
+1532,Correct,XGBoost,1,F1 Score: 90%
+1533,Correct,XGBoost,1,F1 Score: 90%
+1534,Correct,XGBoost,1,F1 Score: 90%
+1535,Correct,XGBoost,1,F1 Score: 90%
+1536,Correct,XGBoost,1,F1 Score: 90%
+1537,Correct,XGBoost,1,F1 Score: 90%
+1538,Correct,XGBoost,1,F1 Score: 90%
+1539,Correct,XGBoost,1,F1 Score: 90%
+1540,Correct,XGBoost,1,F1 Score: 90%
+1541,Correct,XGBoost,1,F1 Score: 90%
+1542,Correct,XGBoost,1,F1 Score: 90%
+1543,Correct,XGBoost,1,F1 Score: 90%
+1544,Correct,XGBoost,1,F1 Score: 90%
+1545,Correct,XGBoost,1,F1 Score: 90%
+1546,Correct,XGBoost,1,F1 Score: 90%
+1547,Correct,XGBoost,1,F1 Score: 90%
+1548,Correct,XGBoost,1,F1 Score: 90%
+1549,Correct,XGBoost,1,F1 Score: 90%
+1550,Correct,XGBoost,1,F1 Score: 90%
+1551,Correct,XGBoost,1,F1 Score: 90%
+1552,Correct,XGBoost,1,F1 Score: 90%
+1553,Correct,XGBoost,1,F1 Score: 90%
+1554,Correct,XGBoost,1,F1 Score: 90%
+1555,Correct,XGBoost,1,F1 Score: 90%
+1556,Correct,XGBoost,1,F1 Score: 90%
+1557,Correct,XGBoost,1,F1 Score: 90%
+1558,Correct,XGBoost,1,F1 Score: 90%
+1559,Correct,XGBoost,1,F1 Score: 90%
+1560,Correct,XGBoost,1,F1 Score: 90%
+1561,Correct,XGBoost,1,F1 Score: 90%
+1562,Correct,XGBoost,1,F1 Score: 90%
+1563,Correct,XGBoost,1,F1 Score: 90%
+1564,Correct,XGBoost,1,F1 Score: 90%
+1565,Correct,XGBoost,1,F1 Score: 90%
+1566,Correct,XGBoost,1,F1 Score: 90%
+1567,Correct,XGBoost,1,F1 Score: 90%
+1568,Correct,XGBoost,1,F1 Score: 90%
+1569,Correct,XGBoost,1,F1 Score: 90%
+1570,Correct,XGBoost,1,F1 Score: 90%
+1571,Correct,XGBoost,1,F1 Score: 90%
+1572,Correct,XGBoost,1,F1 Score: 90%
+1573,Correct,XGBoost,1,F1 Score: 90%
+1574,Correct,XGBoost,1,F1 Score: 90%
+1575,Correct,XGBoost,1,F1 Score: 90%
+1576,Correct,XGBoost,1,F1 Score: 90%
+1577,Correct,XGBoost,1,F1 Score: 90%
+1578,Correct,XGBoost,1,F1 Score: 90%
+1579,Correct,XGBoost,1,F1 Score: 90%
+1580,Correct,XGBoost,1,F1 Score: 90%
+1581,Correct,XGBoost,1,F1 Score: 90%
+1582,Correct,XGBoost,1,F1 Score: 90%
+1583,Correct,XGBoost,1,F1 Score: 90%
+1584,Correct,XGBoost,1,F1 Score: 90%
+1585,Correct,XGBoost,1,F1 Score: 90%
+1586,Correct,XGBoost,1,F1 Score: 90%
+1587,Correct,XGBoost,1,F1 Score: 90%
+1588,Correct,XGBoost,1,F1 Score: 90%
+1589,Correct,XGBoost,1,F1 Score: 90%
+1590,Correct,XGBoost,1,F1 Score: 90%
+1591,Wrong,XGBoost,1,F1 Score: 90%
+1592,Wrong,XGBoost,1,F1 Score: 90%
+1593,Wrong,XGBoost,1,F1 Score: 90%
+1594,Wrong,XGBoost,1,F1 Score: 90%
+1595,Wrong,XGBoost,1,F1 Score: 90%
+1596,Wrong,XGBoost,1,F1 Score: 90%
+1597,Wrong,XGBoost,1,F1 Score: 90%
+1598,Wrong,XGBoost,1,F1 Score: 90%
+1599,Wrong,XGBoost,1,F1 Score: 90%
+1600,Wrong,XGBoost,1,F1 Score: 90%
